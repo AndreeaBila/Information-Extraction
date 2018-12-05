@@ -1,6 +1,7 @@
 import nltk
 import numpy
 
+import os
 from os import listdir
 from os.path import isfile, join
 from nltk.tokenize import word_tokenize
@@ -11,7 +12,7 @@ mapFiles    = {}
 mapHeaders  = {}
 mapContent  = {}
 mapTags     = {}
-
+# nltk.download();
 def readContents():
     myPath = "wsj_untagged/";
     onlyfiles = [f for f in listdir(myPath) if isfile(join(myPath, f))]
@@ -31,10 +32,22 @@ def readContents():
     # for content in mapFiles:
     text = mapFiles['wsj_0001.txt']
 
-    tokens = nltk.word_tokenize(text)
-    print(tokens)
-    print(nltk.pos_tag(tokens))
-    print(ne_chunk(nltk.pos_tag(tokens), binary=False))
+    sentences = nltk.sent_tokenize(text)
+
+    tokenized_sentences = [nltk.word_tokenize(sentence) for sentence in sentences]
+    tagged_sentences = [nltk.pos_tag(sentence) for sentence in tokenized_sentences]
+    # for sent in tagged_sentences:
+    #     print (nltk.ne_chunk(sent))
+    text_tagged = ""
+    for sent in sentences:
+        text_tagged = text_tagged + "<sentence>" + sent + "</sentence>"
+    print(text_tagged)
+
+    # paragrafs =
+
+    # print(nltk.pos_tag(tokens))
+    # print(ne_chunk(nltk.pos_tag(tokens), binary=False))
+
     # from nltk.tag.stanford import POSTagger
     # stan_tagger = POSTagger('models/english-bidirectional-distdim.tagger', 'standford-postagger.jar')
     #
