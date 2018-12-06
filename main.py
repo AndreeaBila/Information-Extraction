@@ -116,22 +116,47 @@ def tagTime(text):
     return text
 
 
-def tagTime2(text):
-    stanfordClassifier = 'C:/Users/andre/nltk_data/taggers/stanford-ner-2018-10-16/classifiers/english.muc.7class.distsim.crf.ser.gz'
-    stanfordNerPath = 'C:/Users/andre/nltk_data/taggers/stanford-ner-2018-10-16/stanford-ner.jar'
-    st = StanfordNERTagger(stanfordClassifier, stanfordNerPath, encoding='utf8')
-    result = st.tag(word_tokenize(text))
-    res = ""
-    # for r in result:
-    #     print(r)
-    #     if r[1] == "TIME":
-    #
-    #        # text.replace(r[0], "<time>" + r[0] + "</time>")
-    #         temp = text.split(r[0])
-    #
-    #         res = res + temp[0] + "<time>" + r[0] + "</time>" + temp[1]
-    #         return res
-    return result
+def tagTime2(fileName):
+    # Tag start and end time from headers
+    headerRegEx = "Time:(.*)"
+    headerTimesTemp = re.search(headerRegEx, mapHeaders[fileName])
+
+    # If header times are not found
+    if headerTimesTemp is None:
+        return
+
+    headerTimes = headerTimesTemp.group(1).split("-")
+
+    if len(headerTimes) == 1:
+        mapTags[fileName]['stime'] = headerTimes[0].strip()
+        mapTags[fileName]['etime'] = "PARAMETER_EMPTY"
+    elif len(headerTimes) == 2:
+        mapTags[fileName]['stime'] = headerTimes[0].strip()
+        mapTags[fileName]['etime'] = headerTimes[1].strip()
+    else:
+        mapTags[fileName]['stime'] = "PARAMETER_EMPTY"
+        mapTags[fileName]['etime'] = "PARAMETER_EMPTY"
+
+    # Find times in content
+    timeRegEx = re.compile("\\b((1[0-2]|0?[1-9])((:[0-5][0-9])?)(\s?)([AaPp][Mm])|(1[0-2]|0?[1-9])(:[0-5][0-9])){1}")
+
+    # Check how many positions have advanced
+    counter = 0
+    TIME_TAG_LEN = len("<stime></stime>")
+
+    # Add tags at start and end of time
+    for m in timeRegEx.finditer(mapFiles[fileName]):
+        position = m.start() + counter * TIME_TAG_LEN
+        wordToTag = m.group().strip()
+        if wordToTag.lower() == mapTags[fileName]['stime'].lower():
+            tag(position, wordToTag, fileName, 'stime')
+            counter += 1
+        elif wordToTag.lower() == mapTags[fileName]['etime'].lower():
+            tag(position, wordToTag, fileName, 'etime')
+            counter += 1
+
+    # End method for time tagging
+    return
 
 
 def tagSentence(sentence):

@@ -2,6 +2,7 @@ from os import listdir
 from os.path import isfile, join
 from utilities import emptyOutputFolder
 import nltk
+import re
 
 mapFiles    = {}
 mapHeaders  = {}
@@ -46,11 +47,13 @@ def tagParagraphs(fileName):
     for paragraph in paragraphs:
 
         # Tag paragraph if it is true
-        if isParagraph(paragraph) == True:
+        if isParagraph(paragraph):
             position = mapFiles[fileName].find(paragraph)
             tag(position, paragraph.rstrip(), fileName, "paragraph")
             tagSentences(paragraph)
-
+        # else:
+        #     print(paragraph)
+        #     print('IS NOT PARAGRAPH')
     # End method for paragraph tagging
     return
 
@@ -78,8 +81,28 @@ def tagSentences(paragraph):
     return
 
 
-def tagTopic(text):
-    return "Not Implemented"
+def tagTopic(fileName):
+    # Tag topic from headers
+    headerHint = "Topic:(.*)"
+    temp = re.search(headerHint, mapHeaders[fileName])
+    # If header topic is not found
+    if temp is None:
+        return
+
+    headerTopic = temp.group(1).strip()
+    mapTags[fileName]['topic'] = headerTopic
+    #
+    # # Check how many positions have advanced
+    # counter = 0
+    # tagLength = len("<topic></topic>")
+    #
+    # # Add tags for topic
+    # for topic in re.finditer(headerTopic, mapFiles[fileName]):
+    #     index = topic.start() + counter * tagLength
+    #     tag(index, topic.group().strip(), fileName, 'topic')
+    #     counter = counter + 1
+
+    return
 
 
 def tagLocation(text):
@@ -87,13 +110,82 @@ def tagLocation(text):
 
 
 def tagSpeaker(fileName):
-    # if "who:" in mapFiles[fileName].lower():
-        
-    return "Not Implemented"
+    # Tag start and end time from headers
+    headerHint = "Who:(.*)"
+    temp = re.search(headerHint, mapHeaders[fileName])
+
+    # If header times are not found
+    if temp is None:
+        return
+
+    line = temp.group(1).strip()
+    temp2 = re.split(',|/|-|\(', line)
+    name = temp2[0]
+    print(fileName + " " + name)
+
+    mapTags[fileName]['speaker'] = name
+
+    # Check how many positions have advanced
+    counter = 0
+    tagLength = len("<speaker></speaker>")
+
+    # Add tags for topic
+    for n in re.finditer(name, mapFiles[fileName]):
+        index = n.start() + counter * tagLength
+        tag(index, n.group().strip(), fileName, 'speaker')
+        counter = counter + 1
+
+    return
 
 
-def tagTime(text):
-    return "Not Implemented"
+def tagTime(fileName):
+    # Tag start and end time from headers
+    headerHint = "Time:(.*)"
+    temp = re.search(headerHint, mapHeaders[fileName])
+
+    # If header times are not found
+    if temp is None:
+        return
+
+    headerTimes = temp.group(1).split("-")
+
+    if len(headerTimes) == 1:
+        mapTags[fileName]['stime'] = headerTimes[0].strip()
+        mapTags[fileName]['etime'] = "EMPTY"
+    elif len(headerTimes) == 2:
+        mapTags[fileName]['stime'] = headerTimes[0].strip()
+        mapTags[fileName]['etime'] = headerTimes[1].strip()
+    else:
+        mapTags[fileName]['stime'] = "EMPTY"
+        mapTags[fileName]['etime'] = "EMPTY"
+
+    # Find times in content
+    time_format2 = re.compile(r"\b((0?[1-9]|1[012])([:.][0-5][0-9])?(\s?[apAP][Mm])|([01]?[0-9]|2[0-3])([:.][0-5][0-9]))\b")
+    time_format = re.compile("\\b((1[0-2]|0?[1-9])((:[0-5][0-9])?)(\s?)([AaPp][Mm])|(1[0-2]|0?[1-9])(:[0-5][0-9])){1}")
+
+    # Check how many positions have advanced
+    counter = 0
+    tagLength = len("<stime></stime>")
+
+    # Add tags at start and end of time
+    contentTimes = time_format.finditer(mapFiles[fileName])
+
+
+    for time in contentTimes:
+        index = time.start() + counter * tagLength
+        word = time.group().strip()
+        if word.lower() == mapTags[fileName]['stime'].lower():
+            tag(index, word, fileName, 'stime')
+            counter = counter + 1
+        elif word.lower() == mapTags[fileName]['etime'].lower():
+            tag(index, word, fileName, 'etime')
+            counter = counter + 1
+        else:
+            mapTags[fileName]['stime'] = word
+            tag(index, word, fileName, 'stime')
+            counter = counter + 1
+
+    return
 
 
 def printTaggedFiles():
@@ -116,17 +208,19 @@ if __name__ == '__main__':
     emptyOutputFolder("output/")
 
     # Set the file name
-    fileName = "302.txt"
+    file = "301.txt"
 
     # Initialise key for hash map tags
-    mapTags[fileName] = {}
+    for fileName in mapFiles:
+        mapTags[fileName] = {}
 
-    # Tag in order
-    tagParagraphs(fileName)
-    tagTopic(fileName)
-    tagLocation(fileName)
-    tagSpeaker(fileName)
-    tagTime(fileName)
+        # Tag in order
+        tagParagraphs(fileName)
+        tagTopic(fileName)
+        tagLocation(fileName)
+        tagSpeaker(fileName)
+        tagTime(fileName)
 
     # Print content
-    print(mapFiles[fileName])
+    print(mapFiles[file])
+    printTaggedFiles()
