@@ -80,7 +80,6 @@ def tagSpeaker(text):
     result = st.tag(word_tokenize(text))
     res = []
     for r in result:
-        print(r)
         if r[1] == "PERSON":
             res.append(r[0])
 
@@ -96,7 +95,7 @@ def tagSpeaker(text):
 
 
 def tagTime(text):
-    time_format1 = re.compile(r"(24:00|2[0-3]:[0-5][0-9]|[0-1][0-9]:[0-5][0-9])")
+    # time_format1 = re.compile(r"(24:00|2[0-3]:[0-5][0-9]|[0-1][0-9]:[0-5][0-9])")
     time_format2 = re.compile(r"\b((0?[1-9]|1[012])([:.][0-5][0-9])?(\s?[apAP][Mm])|([01]?[0-9]|2[0-3])([:.][0-5][0-9]))\b")
 
     times = time_format2.findall(text)
