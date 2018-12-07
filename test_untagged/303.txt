@@ -1,4 +1,5 @@
-<1.28.10.94.17.08.27.xu+@IUS4.IUS.CS.CMU.EDU (Yangsheng Xu).0>
+<
+1.28.10.94.17.08.27.xu+@IUS4.IUS.CS.CMU.EDU (Yangsheng Xu).0>
 Type:     cmu.cs.robotics
 Who:      Tony Stentz
           The Robotics Institute
@@ -9,8 +10,7 @@ Time:     3:30 PM - 5:00 PM
 Place:    ADAMSON WING Auditorium in Baker Hall
 Host:     Yangsheng Xu (xu+@cs.cmu.edu)
 PostedBy: xu+ on 28-Oct-94 at 17:08 from IUS4.IUS.CS.CMU.EDU (Yangsheng Xu)
-Abstract: 
-
+Abstract:
 
                        RI SEMINAR
 

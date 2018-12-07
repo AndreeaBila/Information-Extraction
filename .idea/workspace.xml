@@ -4,7 +4,192 @@
     <list default="true" id="af1370a5-2ef6-4d71-b2b0-0713bbd89c60" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clean.py" beforeDir="false" afterPath="$PROJECT_DIR$/clean.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/301_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/302_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/303_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/304_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/305_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/306_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/307_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/308_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/309_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/310_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/311_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/312_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/313_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/314_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/315_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/316_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/317_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/318_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/319_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/320_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/321_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/322_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/323_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/324_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/325_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/326_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/327_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/328_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/329_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/330_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/331_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/332_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/333_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/334_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/335_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/336_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/337_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/338_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/339_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/340_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/341_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/342_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/343_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/344_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/345_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/346_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/347_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/348_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/349_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/350_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/351_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/352_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/353_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/354_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/355_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/356_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/357_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/358_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/359_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/360_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/361_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/362_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/363_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/364_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/365_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/366_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/367_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/368_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/369_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/370_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/371_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/372_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/373_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/374_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/375_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/376_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/377_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/378_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/379_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/380_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/381_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/382_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/383_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/384_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/385_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/386_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/387_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/388_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/389_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/390_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/391_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/392_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/393_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/394_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/395_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/396_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/397_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/398_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/399_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/400_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/401_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/402_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/403_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/404_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/405_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/406_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/407_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/408_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/409_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/410_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/411_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/412_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/413_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/414_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/415_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/416_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/417_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/418_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/419_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/420_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/421_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/422_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/423_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/424_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/425_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/426_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/427_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/428_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/429_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/430_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/431_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/432_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/433_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/434_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/435_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/436_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/437_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/438_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/439_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/440_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/441_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/442_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/443_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/444_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/445_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/446_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/447_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/448_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/449_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/450_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/451_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/452_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/453_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/454_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/455_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/456_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/457_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/458_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/459_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/460_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/461_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/462_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/463_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/464_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/465_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/466_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/467_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/468_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/469_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/470_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/471_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/472_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/473_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/474_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/475_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/476_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/477_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/478_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/479_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/480_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/481_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/482_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/483_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/484_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/485_tagged.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_untagged/303.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test_untagged/303.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,52 +199,50 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Information_Extraction$main.coverage" NAME="main Coverage Results" MODIFIED="1544109843111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Information_Extraction$clean.coverage" NAME="clean Coverage Results" MODIFIED="1544134619541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Information_Extraction$clean.coverage" NAME="clean Coverage Results" MODIFIED="1544199461113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5588056">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/clean.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="445">
-                  <caret line="137" column="10" selection-start-line="137" selection-start-column="10" selection-end-line="137" selection-end-column="10" />
-                  <folding>
-                    <element signature="e#0#22#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/untagged/303.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/main.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1312">
-                  <caret line="141" selection-start-line="140" selection-start-column="4" selection-end-line="141" />
-                  <folding>
-                    <element signature="e#0#11#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/clean.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="139" column="30" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/sre_parse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="929" selection-start-line="929" selection-end-line="929" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/sre_compile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="763" selection-start-line="763" selection-end-line="763" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/re.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="229" selection-start-line="229" selection-end-line="229" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,6 +250,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sentence</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -78,15 +266,16 @@
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/output/303_tagged.txt" />
         <option value="$PROJECT_DIR$/untagged/303.txt" />
+        <option value="$PROJECT_DIR$/test_untagged/303.txt" />
         <option value="$PROJECT_DIR$/clean.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="717" />
-    <option name="height" value="407" />
+    <option name="x" value="3160" />
+    <option name="y" value="10" />
+    <option name="width" value="574" />
+    <option name="height" value="326" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -96,7 +285,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -104,15 +292,11 @@
               <item name="Information-Extraction" type="b2602c69:ProjectViewProjectNode" />
               <item name="Information-Extraction" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Information-Extraction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Information-Extraction" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,12 +387,13 @@
       <workItem from="1543852516855" duration="10267000" />
       <workItem from="1544012371987" duration="29881000" />
       <workItem from="1544108133666" duration="2304000" />
-      <workItem from="1544110669294" duration="20442000" />
+      <workItem from="1544110669294" duration="20881000" />
+      <workItem from="1544183862570" duration="11796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62894000" />
+    <option name="totallyTimeSpent" value="75129000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -223,12 +408,12 @@
     <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12526652" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14925373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38049304" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26795283" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -250,188 +435,179 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/untagged/473.txt">
+    <entry file="file://$PROJECT_DIR$/wsj_training/wsj_0001.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training/3.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untagged/307.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="23" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untagged/301.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="66" lean-forward="true" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training/4.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training/5.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training/6.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training/7.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training/8.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training/10.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training/9.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training/13.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training/34.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training/32.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training/21.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training/22.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training/17.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training/15.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/Uni/year2/nlp/generate_phone_book .py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_tagged/302.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/training/1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        <state relative-caret-position="234">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/training/2.txt">
+    <entry file="file://$PROJECT_DIR$/untagged/302.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/training/0.txt">
+    <entry file="file://$PROJECT_DIR$/test_untagged/303.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="21" selection-end-column="55" />
+        <state relative-caret-position="198">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_tagged/303.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" column="66" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+        <state relative-caret-position="36">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res.txt">
+    <entry file="file://$PROJECT_DIR$/output/319_tagged.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_untagged/301.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/output/318_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_tagged/301.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/output/326_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/323_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/325_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/utilities.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        <state relative-caret-position="153">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out.txt">
+    <entry file="file://$PROJECT_DIR$/output/324_tagged.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="489">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1312">
-          <caret line="141" selection-start-line="140" selection-start-column="4" selection-end-line="141" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/output/337_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/301_tagged.txt">
+    <entry file="file://$PROJECT_DIR$/test_tagged/324.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/output/305_tagged.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/314_tagged.txt">
+    <entry file="file://$PROJECT_DIR$/output/308_tagged.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/313_tagged.txt">
+    <entry file="file://$PROJECT_DIR$/output/309_tagged.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/output/310_tagged.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/304_tagged.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_tagged/314.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_tagged/305.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_tagged/304.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_tagged/306.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_tagged/313.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untagged/303.txt">
+    <entry file="file://$PROJECT_DIR$/test_tagged/399.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state relative-caret-position="162">
+          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/302_tagged.txt">
+    <entry file="file://$PROJECT_DIR$/test_tagged/392.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="21" column="78" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_tagged/383.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-201" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_tagged/388.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_tagged/428.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_tagged/430.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/317_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/314_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/306_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/366_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/385_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/399_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/398_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/411_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/410_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/408_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/406_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/405_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/404_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/313_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/311_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/407_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/412_tagged.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/output/303_tagged.txt">
@@ -441,28 +617,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/306_tagged.txt">
+    <entry file="file://$PROJECT_DIR$/output/304_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/307_tagged.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/302_tagged.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/output/315_tagged.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/483_tagged.txt">
+    <entry file="file://$PROJECT_DIR$/output/301_tagged.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/482_tagged.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/sre_parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="929" selection-start-line="929" selection-end-line="929" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/481_tagged.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/sre_compile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="763" selection-start-line="763" selection-end-line="763" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/484_tagged.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="229" selection-start-line="229" selection-end-line="229" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clean.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="137" column="10" selection-start-line="137" selection-start-column="10" selection-end-line="137" selection-end-column="10" />
+        <state relative-caret-position="177">
+          <caret line="139" column="30" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
