@@ -39,9 +39,19 @@ def readContents():
 
         location = findHeaderLocation(fileName)
         if location is not None:
-            locations.add(location)
+            locations.add(re.escape(location))
+
+    # locations.remove("DOHERTY HALL 2315 (*NOTE ROOM*)")
+    # print("Locations")
+    # for location in locations:
+    #
+    #     print(type(location),location)
 
 
+    #
+    # print("Speakers")
+    # for speaker in speakers:
+    #     print(type(speaker),speaker)
 
 
 def tag(index, text, fileName, tagName):
@@ -64,7 +74,7 @@ def tagParagraphs(fileName):
             paragraph = paragraph.strip()
             position = mapFiles[fileName].find(paragraph)
             tag(position, paragraph, fileName, "paragraph")
-            tagSentences(paragraph)
+            tagSentences(paragraph, fileName)
         # else:
         #     print(paragraph)
         #     print('IS NOT PARAGRAPH')
@@ -85,7 +95,7 @@ def hasVerb(text):
     return False
 
 
-def tagSentences(paragraph):
+def tagSentences(paragraph,fileName):
     sentences = nltk.sent_tokenize(paragraph)
 
     for sentence in sentences:
@@ -139,12 +149,11 @@ def tagLocation(fileName):
 
     for location in locations:
         counter = 0
-
-        for s in re.finditer(location, mapFiles[fileName]):
-            print(s)
-            index = s.start() + counter * tagLength
-            s = s.group().strip()
-            tag(index, s, fileName, 'location')
+        # print(fileName, location)
+        for loc in re.finditer(location, mapFiles[fileName]):
+            index = loc.start() + counter * tagLength
+            loc = loc.group().strip()
+            tag(index, loc, fileName, 'location')
             counter = counter + 1
 
     return
@@ -193,8 +202,6 @@ def tagTime(fileName):
 
     headerTimes = temp.group(1).split("-")
 
-
-
     if len(headerTimes) == 1:
         mapTags[fileName]['stime'] = headerTimes[0].strip()
         mapTags[fileName]['etime'] = "EMPTY"
@@ -204,7 +211,6 @@ def tagTime(fileName):
     else:
         mapTags[fileName]['stime'] = "EMPTY"
         mapTags[fileName]['etime'] = "EMPTY"
-
 
     # Find times in content
     time_format2 = re.compile(r"\b((0?[1-9]|1[012])([:.][0-5][0-9])?(\s?[apAP][Mm])|([01]?[0-9]|2[0-3])([:.][0-5][0-9]))\b")
@@ -257,7 +263,7 @@ if __name__ == '__main__':
     readContents()
 
     # Set the file name
-    file = "301.txt"
+    file = "302.txt"
 
     # Initialise key for hash map tags
     for fileName in mapFiles:
@@ -274,6 +280,5 @@ if __name__ == '__main__':
 
     # Print content
     # print(mapFiles[file])
-
 
     printTaggedFiles()
