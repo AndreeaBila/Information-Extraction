@@ -41,17 +41,38 @@ def readContents():
         if location is not None:
             locations.add(re.escape(location))
 
-    # locations.remove("DOHERTY HALL 2315 (*NOTE ROOM*)")
-    # print("Locations")
-    # for location in locations:
-    #
-    #     print(type(location),location)
+    extractTrainingData()
 
 
-    #
-    # print("Speakers")
-    # for speaker in speakers:
-    #     print(type(speaker),speaker)
+def extractTrainingData():
+    myPath = "training/"
+    onlyfiles = [f for f in listdir(myPath) if isfile(join(myPath, f))]
+
+    # Read each file
+    for fileName in onlyfiles:
+        # Construct file name and read the file
+        filePath = myPath + fileName
+        fileContent = open(filePath, "r").read()
+        file = '\n'.join(fileContent.split('\n')[1:])
+
+
+        # file = files["1.txt"]
+        rex = re.compile(r'<.*?>(.*?)</.*?>', re.S | re.M)
+
+        tags = rex.finditer(file)
+
+        if tags:
+            label = re.compile("<.*?>")
+            for x in tags:
+                text = x.group(1).strip()
+                text = text.replace("\n", " ")
+                temp = label.match(x.group())
+                tag = temp.group(0)[1:-1]
+                # if tag == 'speaker':
+                #     speakers.add(text)
+                if tag == 'location':
+                    locations.add(re.escape(text))
+
 
 
 def tag(index, text, fileName, tagName):
@@ -117,16 +138,6 @@ def tagTopic(fileName):
 
     headerTopic = temp.group(1).strip()
     mapTags[fileName]['topic'] = headerTopic
-    #
-    # # Check how many positions have advanced
-    # counter = 0
-    # tagLength = len("<topic></topic>")
-    #
-    # # Add tags for topic
-    # for topic in re.finditer(headerTopic, mapFiles[fileName]):
-    #     index = topic.start() + counter * tagLength
-    #     tag(index, topic.group().strip(), fileName, 'topic')
-    #     counter = counter + 1
 
     return
 
@@ -250,7 +261,7 @@ def printTaggedFiles():
     emptyOutputFolder("output/")
 
     for file in mapFiles:
-        outputFilePath =  "output/" + file[:-4] + "_tagged.txt"
+        outputFilePath =  "output/" + file
         out = open(outputFilePath, 'w')
         print(mapFiles[file], end="", file=out)
 
@@ -270,6 +281,7 @@ if __name__ == '__main__':
         mapTags[fileName] = {}
 
         # Tag in order
+
         tagParagraphs(fileName)
         tagTopic(fileName)
         tagLocation(fileName)
@@ -277,6 +289,9 @@ if __name__ == '__main__':
         tagTime(fileName)
         # if '9' in mapTags[fileName]['stime']:
         #     print(fileName)
+        # if 'place:' not in mapHeaders[fileName].lower():
+        #     if '<location>' not in mapFiles[fileName]:
+        #         print(fileName)
 
     # Print content
     # print(mapFiles[file])

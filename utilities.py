@@ -1,4 +1,7 @@
 import os, shutil
+from os import listdir
+from os.path import isfile, join
+import re
 
 def emptyOutputFolder(folder):
     for file in os.listdir(folder):
