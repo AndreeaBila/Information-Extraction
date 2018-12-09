@@ -283,8 +283,38 @@ def printTaggedFiles():
     return
 
 
-def ontoloy(fileName):
-   return "not implemented"
+def ontology(fileName):
+    subjects = ["Science", "Art"]
+    tree = {}
+
+    for subject in subjects:
+        tree[subject] = {}
+
+    tree['Science']     = {"Computer Science": {}, "Physics": {}, "Chemistry": {}}
+    tree['Humanities']  = {"Literature": {}, "History": {}, "Music": {}}
+
+
+    tree['Science']['Computer Science'] = ["Artificial Intelligence", "Human Computer Interaction", "HCI", "Security"]
+    tree['Science']['Physics']          = ["Thermodynamics", "Quantum mechanics", "Optical physics"]
+    tree['Science']['Chemistry']        = ["Organic Chemistry", "Inorganic Chemistry", "Biochemistry"]
+
+    tree['Humanities']['Literature']    = ["Contemporary Literature", "Renaissance Literature", "Creative Writing"]
+    tree['Humanities']['History']       = ["History of religion", "Social history", "World history"]
+    tree['Humanities']['Musicology']    = ["Historical Musicology", "Ethnomusicology", "Music Theory"]
+
+    if 'topic' in mapTags[fileName]:
+        for sub1 in tree:
+            for sub2 in tree[sub1]:
+                for sub3 in tree[sub1][sub2]:
+                    if sub3 in mapTags[fileName]['topic']:
+                        print(fileName, ":", mapTags[fileName]['topic'], ':', sub3)
+                    elif sub2 in mapTags[fileName]['topic']:
+                        print(fileName, ":", mapTags[fileName]['topic'], ':', sub2)
+                    # else:
+                    #     print(fileName, ":", mapTags[fileName]['topic'])
+
+
+    return "not implemented"
 
 
 if __name__ == '__main__':
@@ -307,9 +337,11 @@ if __name__ == '__main__':
         tagTime(fileName)
         getTopic(fileName)
         getType(fileName)
+        ontology(fileName)
 
     printTaggedFiles()
     print('Finished tagging files')
 
-    print(topics[0])
-    wikification(topics[0])
+    # print(topics[24])
+    # wikification(topics[24])
+

@@ -4,7 +4,7 @@ Who:      <speaker>Fritz Prinz</speaker> (EDRC)
 Topic:    The Programmable Automated Welding System
 Dates:    25-Oct-91
 Time:     <stime>12:00 PM</stime> - <etime>1:00 PM</etime>
-Place:    <location>3313 Doherty Hall</location> (Large conf. room)
+Place:    <location><location>3313 Doherty Hall</location> (Large conf. room)</location>
 PostedBy: maa+ on 21-Oct-91 at 13:38 from ISL1.RI.CMU.EDU (Michelle Agie)
 Abstract: 
 
@@ -15,7 +15,7 @@ Abstract:
 
  TIME: 12:00noon - 1:00pm
 
- Place:<location>3313 Doherty Hall</location> (Large conf. room)
+ Place:<location><location>3313 Doherty Hall</location> (Large conf. room)</location>
 
  TITLE: The Programmable Automated Welding System
 
