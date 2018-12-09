@@ -12,7 +12,7 @@ Abstract:
 	     Friendly Reminder:  Robotics Seminar TODAY!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-  <paragraph><sentence>***** Please note UNUSUAL TIME AND PLACE ****</sentence>*</paragraph>
+<paragraph>  <sentence>***** Please note UNUSUAL TIME AND PLACE ****</sentence>*</paragraph>
 
    Date:    25-OCT-91
    Time:    <stime>3:45</stime> (Refreshments at 3:30)
@@ -24,7 +24,7 @@ Abstract:
 	      Robotics Laboratory, Computer Science Dept.
 			  Stanford University
 
-   <paragraph><sentence>Motion planning is an important problem with application in robotics,
+<paragraph>   <sentence>Motion planning is an important problem with application in robotics,
    process planning, design, graphic animation, and medicine</sentence>. <sentence>For example,
    it may be used to automatically generate robot paths from CAD models,
    or assembly sequences for manufacturing electro-mechanical products, or
@@ -49,4 +49,5 @@ Abstract:
    envision that fast path planning algorithms will soon be used on-line
    in robots and in computer systems requiring intensive man-machine
    interaction (e.g., robot programming, CAD, graphic simulation, and
-   concurrent engineering systems)</sentence>.</paragraph>
+   concurrent engineering systems)</sentence>.
+</paragraph>

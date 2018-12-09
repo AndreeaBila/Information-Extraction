@@ -14,7 +14,7 @@ Abstract:
 
                           Wednesday, December 2, 1992
                                     <stime>3:30 PM</stime>
-                                <location>Wean Hall 7500</location>
+                                Wean Hall 7500
                               WHAT IS REASONING?
                           HEURISTIC SEARCH REVISITED
 
@@ -24,4 +24,5 @@ thinking  as  a form of logical and verbal reasoning</sentence>.  <sentence>The 
 the study of human problem solving, views thinking as a  process  of  heuristic
 search  through  a mental representation of a problem situation</sentence>.  <sentence>The talk will
 use recent findings from research on  human  thinking  to  review  the  present
-status and future prospects within A.I</sentence>. of these two paradigms.</paragraph>
+status and future prospects within A.I</sentence>. of these two paradigms.
+</paragraph>

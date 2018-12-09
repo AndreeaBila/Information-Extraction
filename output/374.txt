@@ -41,4 +41,5 @@ numerical and graph applications will be presented</sentence>.</paragraph>
 
 <paragraph><sentence>------
 If you want to talk to the speaker, please send a message to Barbara
-Grandillo (bag@cs.cmu.edu)</sentence>.</paragraph>
+Grandillo (bag@cs.cmu.edu)</sentence>.
+</paragraph>

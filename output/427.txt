@@ -14,7 +14,7 @@ Abstract:
 
                        RI SEMINAR
 
- <paragraph><sentence>WHEN:   Friday, Jan 28, 1994; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+<paragraph> <sentence>WHEN:   Friday, Jan 28, 1994; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
         Refreshments will be served starting at 3:15 p</sentence>m</paragraph>
 
  WHERE:  <location>ADAMSON WING Auditorium in Baker Hall</location>
@@ -35,7 +35,7 @@ are implemented on the HMMWV at CMU on a proof of principle basis</sentence>.
 
  Perception:
 
- <paragraph><sentence>Complexity analysis leads to the conclusion that while the raw throughput
+<paragraph> <sentence>Complexity analysis leads to the conclusion that while the raw throughput
  requirement for the maintenance of safety is manageable, the traditional 
  non-adaptive range image processing approach wastes tremendous computational
  bandwidth</sentence>. <sentence>A simple active perception algorithm is introduced which 
@@ -45,7 +45,7 @@ are implemented on the HMMWV at CMU on a proof of principle basis</sentence>.
 
  Planning:
 
- <paragraph><sentence>Investigation of the impact of latencies and limits on actuator response leads
+<paragraph> <sentence>Investigation of the impact of latencies and limits on actuator response leads
  to a reformulation of planning in configuration space as feedforward 
  satisficingcontrol in actuation space</sentence>. <sentence>The traditional hierarchical 
  planner-controller architecture collapses into a multi-input, 

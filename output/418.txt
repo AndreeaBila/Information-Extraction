@@ -9,7 +9,7 @@ Host:     Raul Valdes-Perez
 PostedBy: plp+ on 4-Nov-93 at 11:29 from PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz)
 Abstract: 
 
- <paragraph><sentence>Type:     AI Seminar
+<paragraph> <sentence>Type:     AI Seminar
  Who:      <speaker>Clark Glymour</speaker> (CMU Philosophy)
  Topic:    Automated Casual Inference: Recent Work and Open Problems
  Dates:    9-Nov-93

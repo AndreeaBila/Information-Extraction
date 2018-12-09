@@ -15,14 +15,14 @@ would like a reprise, come tomorrow evening</sentence>.    ----  garth</paragrap
 
 	         West Coast Computer Science Colloquium
 
-		      <paragraph><sentence>Terabytes >> Teraflops
+<paragraph>		      <sentence>Terabytes >> Teraflops
 	Or why work on processors when I/O is where the action is</sentence>?</paragraph>
 
 			David A. Patterson
 	   Professor and Chair, Computer Science Division,
 	  EECS Department, University of California, Berkeley
 
-                        <paragraph><sentence><stime>7:15</stime> - <etime>8:15 pm</etime>
+<paragraph>                        <sentence><stime>7:15</stime> - <etime>8:15 pm</etime>
                         <location>4623 Wean Hall</location>
                 (via Picturetel from Berkeley)
                 moderated locally by Garth Gibson

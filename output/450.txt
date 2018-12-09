@@ -4,10 +4,11 @@ Topic:    Special AI Seminar
 Dates:    29-Sep-94
 Time:     <stime>3:00 PM</stime>
 PostedBy: valdes+ on 28-Sep-94 at 13:22 from CS.CMU.EDU (Raul Valdes-Perez)
-Abstract: 
-<paragraph><sentence>Ken Forbus of Northwestern University will give a seminar o</sentence>n</paragraph> 
+Abstract:<paragraph> 
+<sentence>Ken Forbus of Northwestern University will give a seminar o</sentence>n </paragraph>
 
- <paragraph><sentence>"Articulate Virtual Laboratories for Engineering Education</sentence>"</paragraph>
+<paragraph> <sentence>"Articulate Virtual Laboratories for Engineering Education</sentence>"</paragraph>
 
 <paragraph>tomorrow (Thursday) at 3pm in Wean 4625.  <sentence>The abstract will be
-posted when available</sentence>.</paragraph>
+posted when available</sentence>.
+</paragraph>

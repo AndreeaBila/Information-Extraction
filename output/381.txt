@@ -5,17 +5,17 @@ Topic:    Research in Teleoperated and Cooperative Control
           of Free-Flying Space Robots
 Dates:    23-Oct-92
 Time:     <stime>3:30</stime> - <etime>5:00 PM</etime>
-Place:    <location>Baker Hall <location>Adamson Wing</location></location>
+Place:    <location>Baker Hall Adamson Wing</location>
 Host:     Hagen Schempf, x6884
 PostedBy: tmeadows on 19-Oct-92 at 13:54 from resumix.portal.com (Tim Meadows)
 Abstract: 
 
   RI SEMINAR
 
- <paragraph><sentence>WHEN:	Friday, 23 October 1992; <stime>3:30</stime> - <etime>5:00 pm</etime>
+<paragraph> <sentence>WHEN:	Friday, 23 October 1992; <stime>3:30</stime> - <etime>5:00 pm</etime>
 	Refreshments to be served by 3:15 p</sentence>m</paragraph>
 
- WHERE:	<location>Baker Hall <location>Adamson Wing</location></location>
+ WHERE:	<location>Baker Hall Adamson Wing</location>
 
  SPEAKER:	<speaker>Asst. Professor Harold L. Alexander</speaker>
 

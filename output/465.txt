@@ -9,7 +9,7 @@ Abstract:
 <paragraph><sentence>Hosted by Matt Mason
 --------------------------------------------------------------------------</sentence>-</paragraph>
 
-     <paragraph>Complementarity Formulations of Multi-rigid-body Contact Problems
+<paragraph>     Complementarity Formulations of Multi-rigid-body Contact Problems
                          Friday, June 16 at 3:00pm
                                <location>Wean Hall 5409</location>
                                 Jeff Trinkle
@@ -53,4 +53,5 @@ Sydney, the Department of Systems and Industrial Engineering at the
 University of Arizona, and the Department of Computer Science at Texas A&M
 University where he is currently an assistant professor</sentence>.  <sentence>Dr. Trinkle's
 primary research interests lie in the areas of robotic manipulation
-planning, multibody dynamics, and physically-based animation</sentence>.</paragraph>
+planning, multibody dynamics, and physically-based animation</sentence>.
+</paragraph>

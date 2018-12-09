@@ -10,7 +10,7 @@ Host:     Stephen D. Brookes
 PostedBy: marian+ on 28-Jan-93 at 13:09 from MARIAN.ADM.CS.CMU.EDU (Marian D'Amico)
 Abstract: 
 
- <paragraph>Type:     LOGIC COLLOQUIUM
+<paragraph> Type:     LOGIC COLLOQUIUM
  Who:      <speaker>Gian Aldo Antonelli</speaker>, Univ. <sentence>of Pittsburgh
  Topic:    A Revision-Theoretic Analysis of the Arithmetical Hierarchy
  Dates:    4-Feb-93
@@ -39,7 +39,7 @@ than, as is usual in the monotone case, taking the cumulative result
 or union of what is obtained at previous stages, in Revision theory
 we take the "inferior limit" of the sequence, i.e., the set of
 items that do not oscillate cofinally in the sequence, but eventually
-stabilize</sentence>.</paragraph> 
+stabilize</sentence>. </paragraph>
 
 <paragraph><sentence>This idea is applied in recursion theory to obtain a recursive
 operator G(x,phi) whose iteration over omega2 beginning with

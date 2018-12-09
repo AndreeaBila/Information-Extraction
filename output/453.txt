@@ -21,7 +21,7 @@ Abstract:
 
  Date:     Thursday, November 21
 
- <paragraph><sentence>Time:     10:30 a</sentence>m</paragraph>
+<paragraph> <sentence>Time:     10:30 a</sentence>m</paragraph>
 
  Place:	  <location>5409 Wean Hall</location>
 

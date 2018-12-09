@@ -6,8 +6,8 @@ Time:     <stime>4:00</stime>
 PostedBy: trg+ on 20-Feb-92 at 11:16 from N2.SP.CS.CMU.EDU (Thomas Gross)
 Abstract: 
 
-
-	<paragraph><sentence>Approaching MPP for Molecular Dynamics and Mechanics of Biomolecule</sentence>s</paragraph>
+<paragraph>
+	<sentence>Approaching MPP for Molecular Dynamics and Mechanics of Biomolecule</sentence>s</paragraph>
 
 		          Charles Brooks
 		Chemistry Department, Carnegie Mellon University
@@ -35,4 +35,5 @@ computing environment (the Cray YMP and CM-2 connected via a HiPPI) to carry
 out calculations on solvated protein and peptide molecules</sentence>.  <sentence>I will
 summarize with a discussion of the future prospects for using MPP
 architectures with peak computational rates in the teraflop range for
-biomolecule dynamics</sentence>.</paragraph>
+biomolecule dynamics</sentence>.
+</paragraph>

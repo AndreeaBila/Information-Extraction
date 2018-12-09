@@ -32,4 +32,5 @@ Friday, August 26, <stime>9:00</stime> - <etime>10:15 AM</etime>, Cyert Hall 119
 We will discuss effective ways to fulfill a variety of teaching roles
 such as expert, authority figure, liaison, and coach, as well as ways to
 create good impressions and a comfortable classroom climate on the first
-day of class</sentence>.  <sentence>This session is open to first-time TAs only</sentence>.</paragraph>  
+day of class</sentence>.  <sentence>This session is open to first-time TAs only</sentence>.  
+</paragraph>

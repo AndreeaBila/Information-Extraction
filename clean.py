@@ -10,6 +10,8 @@ mapContent  = {}
 mapTags     = {}
 speakers    = set()
 locations   = set()
+topics      = []
+types       = []
 
 def readContents():
     myPath = "untagged/"
@@ -41,7 +43,8 @@ def readContents():
         if location is not None:
             locations.add(re.escape(location))
 
-    extractTrainingData()
+
+    # extractTrainingData()
 
 
 def extractTrainingData():
@@ -70,8 +73,8 @@ def extractTrainingData():
                 tag = temp.group(0)[1:-1]
                 # if tag == 'speaker':
                 #     speakers.add(text)
-                if tag == 'location':
-                    locations.add(re.escape(text))
+                if tag == 'speaker':
+                    speakers.add(text)
 
 
 
@@ -89,10 +92,9 @@ def tagParagraphs(fileName):
     paragraphs = mapContent[fileName].split("\n\n")
 
     for paragraph in paragraphs:
-
         # Tag paragraph if it is true
         if hasVerb(paragraph):
-            paragraph = paragraph.strip()
+            paragraph = paragraph
             position = mapFiles[fileName].find(paragraph)
             tag(position, paragraph, fileName, "paragraph")
             tagSentences(paragraph, fileName)
@@ -121,14 +123,14 @@ def tagSentences(paragraph,fileName):
 
     for sentence in sentences:
         if hasVerb(sentence):
-            sentence = sentence.lstrip()
+            sentence = sentence.strip()
             position = mapFiles[fileName].find(sentence)
             tag(position, sentence[:-1], fileName, "sentence")
 
     return
 
 
-def tagTopic(fileName):
+def getTopic(fileName):
     # Tag topic from headers
     headerHint = "Topic:(.*)"
     temp = re.search(headerHint, mapHeaders[fileName])
@@ -138,9 +140,21 @@ def tagTopic(fileName):
 
     headerTopic = temp.group(1).strip()
     mapTags[fileName]['topic'] = headerTopic
-
+    topics.append(headerTopic)
     return
 
+def getType(fileName):
+    # Tag topic from headers
+    headerHint = "Type:(.*)"
+    temp = re.search(headerHint, mapHeaders[fileName])
+    # If header topic is not found
+    if temp is None:
+        return
+
+    headerType = temp.group(1).strip()
+    mapTags[fileName]['type'] = headerType
+    types.append(headerType)
+    return
 
 def findHeaderLocation(fileName):
     # Tag start and end time from headers
@@ -270,6 +284,7 @@ def printTaggedFiles():
 
 if __name__ == '__main__':
     # Read the file contents from the 'untagged' folder
+    print('Tagging files...')
     emptyOutputFolder("output/")
     readContents()
 
@@ -281,19 +296,15 @@ if __name__ == '__main__':
         mapTags[fileName] = {}
 
         # Tag in order
-
         tagParagraphs(fileName)
-        tagTopic(fileName)
         tagLocation(fileName)
         tagSpeaker(fileName)
         tagTime(fileName)
-        # if '9' in mapTags[fileName]['stime']:
-        #     print(fileName)
-        # if 'place:' not in mapHeaders[fileName].lower():
-        #     if '<location>' not in mapFiles[fileName]:
-        #         print(fileName)
-
-    # Print content
-    # print(mapFiles[file])
+        getTopic(fileName)
+        getType(fileName)
 
     printTaggedFiles()
+    print('Finished tagging files')
+
+    for topic in types:
+        print(topic)

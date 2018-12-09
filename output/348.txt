@@ -13,7 +13,7 @@ x
                                 DINESH MANOCHA
                      University of California at Berkeley
 
-                            <paragraph><sentence>Thursday, 9 April 1992
+<paragraph>                            <sentence>Thursday, 9 April 1992
                                     <stime>3:30 PM</stime>
                                 <location>Wean Hall 4623</location>
    Many  problems  in  computer  graphics,  geometric  and  solid  modeling,
@@ -31,7 +31,7 @@ x
    techniques  and  continuation  are  far  from  being  robust  and slow in
    practice as well</sentence>.</paragraph>
 
-   <paragraph><sentence>In this  talk  we  present  multipolynomial  resultants  and  show  their
+<paragraph>   <sentence>In this  talk  we  present  multipolynomial  resultants  and  show  their
    effectiveness  for  manipulating  system  of  polynomial  equations</sentence>.  <sentence>The
    resultant is represented in terms of  matrices  and  determinants</sentence>.  <sentence>As  a
    result,  we  use  algorithms  from  linear algebra for their application</sentence>.

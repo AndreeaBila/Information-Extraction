@@ -9,7 +9,7 @@ Host:     Dave McKeown
 PostedBy: plp+ on 20-Oct-93 at 15:35 from PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz)
 Abstract: 
 
- <paragraph><sentence>Type:     AI Seminar
+<paragraph> <sentence>Type:     AI Seminar
  Who:      <speaker>Rich Korf</speaker> (UCLA)
  Topic:    Best-First Minimax Search
  Dates:    21-Oct-93

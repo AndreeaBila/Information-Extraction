@@ -12,7 +12,7 @@ Abstract:
 *****************************************************************
 RI SEMINAR  CORRECTION
 
- <paragraph><sentence>WHEN:	FRIDAY, SEPT.4, 1992; <stime>3:30</stime> - <etime>5:00 PM</etime>
+<paragraph> <sentence>WHEN:	FRIDAY, SEPT.4, 1992; <stime>3:30</stime> - <etime>5:00 PM</etime>
 	REFRESHMENTS WILL BE SERVED BY 3:15 P</sentence>M</paragraph>
 
  WHERE:	<location>DOHERTY HALL 2315 (NOTE ROOM)</location>
@@ -59,4 +59,5 @@ robot needs to negotiate different terrain</sentence>.  <sentence>A Neural Gait
 *               |                          |                         *
 *412-268-7085   |  Fax: 412-682-1793       | tmeadows@frc.ri.cmu.edu *
 *               |                          |                         *
-*********************************************************************</sentence>*</paragraph>
+*********************************************************************</sentence>*
+</paragraph>

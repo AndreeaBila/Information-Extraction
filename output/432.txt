@@ -27,9 +27,10 @@ computer applications are of little help for improving the efficiency of the
 routine mental work of the information economy, and have been improving too
 slowly</sentence>. <sentence>The good news is that simple, cheap, empirical usability
 evaluation and redesign can turn the situation around</sentence>. <sentence>Fairly compelling
-evidence will be displayed</sentence>.</paragraph> 
+evidence will be displayed</sentence>. </paragraph>
 
 Further Details:
 
 <paragraph><sentence>Please see /afs/cs/user/dandb/hciseminar.txt for a list of upcoming HCI
-seminar speakers</sentence>.</paragraph>
+seminar speakers</sentence>.
+</paragraph>

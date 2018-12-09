@@ -10,7 +10,7 @@ INTEL DISTINGUISHED LECTURE IN TECHNOLOGY:
 
 <paragraph><sentence>THE FUTURE OF COMPUTING
 Monday, November 2, 1992
-<location><location>Adamson Wing</location>, Baker Hall</location> -- <stime>3:30 pm</stime>
+<location>Adamson Wing, Baker Hall</location> -- <stime>3:30 pm</stime>
 Reception will follow immediately after the talk</sentence>.
 ************************************************************************</paragraph>
 
@@ -37,4 +37,5 @@ family.  <sentence>In 1972 he joined Microdata as Director of Computer Developme
 leaving to join Intel in 1974</sentence>. <sentence>He graduated from Michigan Technological
 University with a B.S</sentence>. in Electrical Engineering in 1964.  <sentence>He received his
 M.S</sentence>. in Electrical Engineering from Northeastern University in 1969.  <sentence>He is
-a member of the Institute of Electrical and Electronic Engineers</sentence>.</paragraph>
+a member of the Institute of Electrical and Electronic Engineers</sentence>.
+</paragraph>

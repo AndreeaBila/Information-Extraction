@@ -16,7 +16,7 @@ Abstract:
 
                        Thursday, September 22, 1994
 
-                    <paragraph>WeH 7500      3:30 p.m. - 5:00 p.m.
+<paragraph>                    WeH 7500      3:30 p.m. - 5:00 p.m.
      <sentence>The  speaker will describe his rather unexpected experiences as a
      mere technologist in the corridors of  power  in  Washington</sentence>.  <sentence>By
      being  in  the  right place at the right time, he was selected as
@@ -38,14 +38,14 @@ Abstract:
 
                                  Biography
 
-         <paragraph><sentence>Randy  Howard  Katz  was born in Brooklyn, NY in 1955</sentence>. <sentence>He
+<paragraph>         <sentence>Randy  Howard  Katz  was born in Brooklyn, NY in 1955</sentence>. <sentence>He
          received an A.B</sentence>. degree from Cornell University in  1976,
          and  the  M.S.  and Ph.D.  degrees from the University of
          California, Berkeley in 1978 and 1980  respectively,  all
          in  computer  science.   <sentence>He was a Cornell College Scholar
          and held an IBM Predoctoral Fellowship at Berkeley</sentence>.</paragraph>
 
-         <paragraph><sentence>He joined the faculty of the Computer Sciences Department
+<paragraph>         <sentence>He joined the faculty of the Computer Sciences Department
          at the University of Wisconsin-Madison in 1981</sentence>.  <sentence>In 1983,
          he  returned  to  Berkeley,  where  he  was  promoted  to
          Associate Profesor with tenure in 1985 and Full Professor
@@ -53,7 +53,7 @@ Abstract:
          Presidential  Young  Investigator from 1984-1989 and held
          an IBM Faculty Development Award in 1984-1985</sentence>.</paragraph>
 
-         <paragraph><sentence>He has written over 100 technical papers and two books on
+<paragraph>         <sentence>He has written over 100 technical papers and two books on
          computer-aided    design    databases,    VLSI   systems,
          multiprocessor  architecture,  disk  and   tape   storage
          systems,  and  wireless  computing</sentence>.  <sentence>He is best known for
@@ -66,4 +66,5 @@ Abstract:
          from Berkeley to the Computer Systems  Technology  Office
          of the Advanced Research Projects, where he is developing
          ARPA's  program  plans  for  the   National   Information
-         Infrastructure</sentence>.</paragraph>
+         Infrastructure</sentence>.
+</paragraph>

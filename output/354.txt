@@ -46,6 +46,7 @@ dynamical simulation</sentence>.  <sentence>It generates a compact, symbolic beh
 description and a realistic, three-dimensional animation</sentence>.  <sentence>It can also
 generate the space of behaviors for all possible input motions</sentence>.</paragraph>
 
- <paragraph><sentence>Host: Andy Witkin
+<paragraph> <sentence>Host: Andy Witkin
  To schedule a meeting, email
- Phyllis.Pomerantz@cs.cmu.edu or call her at 268-7897</sentence>.</paragraph>
+ Phyllis.Pomerantz@cs.cmu.edu or call her at 268-7897</sentence>.
+</paragraph>

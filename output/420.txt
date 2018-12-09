@@ -9,7 +9,7 @@ Host:     Manuela Veloso
 PostedBy: plp+ on 24-Nov-93 at 10:18 from PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz)
 Abstract: 
 
- <paragraph><sentence>Type:     AI Seminar
+<paragraph> <sentence>Type:     AI Seminar
  Who:      <speaker>Kris Hammond</speaker> (University of Chicago)
  Topic:    Actualized Intelligence: Planning and Acting in Dynamic Environments
  Dates:    30-Nov-93

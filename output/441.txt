@@ -101,4 +101,5 @@ Real world examples:
 <paragraph><sentence>In addition to these specialized presentations, the telecast
 will feature industrial colleagues presenting how their use of
 object technology and object-oriented development tools greatly
-enhanced their application development process</sentence>.</paragraph>
+enhanced their application development process</sentence>.
+</paragraph>

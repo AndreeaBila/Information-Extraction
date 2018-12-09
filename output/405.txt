@@ -10,7 +10,7 @@ Host:     Ed Clarke
 PostedBy: dbj+ on 3-Mar-93 at 18:12 from cs.cmu.edu (Dave Johnson)
 Abstract: 
 
- <paragraph><sentence>Type:     PS Seminar
+<paragraph> <sentence>Type:     PS Seminar
  Who:      <speaker>Amy Zwarico</speaker>, Johns Hopkins University
  Topic:    "Testing Preorders for Reactive Real-Time Processes"
  Dates:    8-Mar-93
@@ -19,7 +19,7 @@ Abstract:
  Duration: 90 Minutes
  Host:     Ed Clark</sentence>e</paragraph>
 
-  <paragraph><sentence>Recent years have witnessed increasing interest in the theoretical
+<paragraph>  <sentence>Recent years have witnessed increasing interest in the theoretical
   aspects of real-time programming</sentence>.  <sentence>This has been fueled by the high
   costs associated with the failure of real-time systems</sentence>.  <sentence>This talk
   presents an extension of the testing paradigm of De Nicola and
@@ -37,8 +37,9 @@ Abstract:
 
  FurtherDetails: 
 
-   <paragraph><sentence>If you would like to meet with <speaker>Amy Zwarico</speaker> while she is here, please
+<paragraph>   <sentence>If you would like to meet with <speaker>Amy Zwarico</speaker> while she is here, please
    send your request for appointments to Dana Wixson (dwzz@cs.cmu.edu)</sentence>.</paragraph>
 
 <paragraph><sentence>FurtherDetails: If you would like to meet with <speaker>Amy Zwarico</speaker> while she is here, please
-          send your request for appointments to Dana Wixson (dwzz@cs.cmu.edu)</sentence>.</paragraph>    
+          send your request for appointments to Dana Wixson (dwzz@cs.cmu.edu)</sentence>.    
+</paragraph>

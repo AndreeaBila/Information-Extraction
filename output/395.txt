@@ -8,7 +8,7 @@ Abstract:
 
             West Coast Colloquium Video-Conference Seminar
 
-            <paragraph><sentence>Wed Feb 10, <location>4623 Wean Hall</location>, 7:15 pm - 8:15 pm
+<paragraph>            <sentence>Wed Feb 10, <location>4623 Wean Hall</location>, 7:15 pm - 8:15 pm
                 moderated locally by Garth Gibso</sentence>n</paragraph>
 
 	  Observations on Massively Parallel Processors and
@@ -25,7 +25,7 @@ convergence, with a machine operating 1000 times faster than the
 fastest Cray computer being feasible in just a few years</sentence>.  <sentence>Now I am 
 concerned whether computer science in general (and computer 
 science theory in particular) will take advantage of this opportunity
-to contribute to and accelerate the success of massive parallelism</sentence>.</paragraph> 
+to contribute to and accelerate the success of massive parallelism</sentence>. </paragraph>
 
 <paragraph><sentence>This talk will first relay my (possibly controversial) observations:
 1: We really can get to 1 TeraFLOPS(Million MFLOPS)</sentence>! And Soon!
@@ -40,7 +40,7 @@ to contribute to and accelerate the success of massive parallelism</sentence>.</
 developed by architects and theoreticians at Berkeley</sentence>. <sentence>The name LogP comes
 from the four parameters of the model</sentence>:</paragraph>
 
- <paragraph>L: Latency of communication in the network.
+<paragraph> L: Latency of communication in the network.
  <sentence>o: Overhead for the processor to send or receive a message from the network</sentence>.
  <sentence>g: Gap between consecutive messages sent or received at a processor</sentence>.
  P: number of processor/memory modules.</paragraph>

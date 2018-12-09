@@ -5,8 +5,8 @@ Dates:    23-Mar-94
 Time:     <stime>3:30</stime> - <etime>5:00 PM</etime>
 Host:     Phil Miller
 PostedBy: Kathleen P. Kowalski on 22-Mar-94 at 08:58 from andrew.cmu.edu
-Abstract: 
-<paragraph><sentence>Just a reminder that tomorrow's HCI Seminar will be as follows</sentence>:</paragraph>
+Abstract:<paragraph> 
+<sentence>Just a reminder that tomorrow's HCI Seminar will be as follows</sentence>:</paragraph>
 
 Programmable Applications for Scientists and Artists
 
@@ -40,4 +40,5 @@ Clark at x8-6737</sentence>.</paragraph>
 Seminar speakers</sentence>.</paragraph>
 
 <paragraph><sentence>Please contact cmu-hci-request@andrew.cmu.edu to receive
-announcements of human-computer interaction talks and news</sentence>.</paragraph> 
+announcements of human-computer interaction talks and news</sentence>. 
+</paragraph>

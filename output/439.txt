@@ -10,7 +10,7 @@ Host:     Raul Valdes-Perez
 PostedBy: plp+ on 6-Apr-94 at 10:41 from PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz)
 Abstract: 
 
- <paragraph><sentence>Type:     AI Seminar
+<paragraph> <sentence>Type:     AI Seminar
  Who:      <speaker>Melvin Montemerlo</speaker> / NASA HQ
  Topic:    NASA's Artificial Intelligence Program
  Dates:    12-Apr-94

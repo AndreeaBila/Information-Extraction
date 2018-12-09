@@ -17,11 +17,11 @@ SPECIAL MULTIMEDIA SEMINAR
  Place: <location>Porter Hall 225B</location>
  Host: Dana Scott (SCS, x8-3881 or Rebecca Clark x8-6737).
 
- <paragraph><sentence>SPEAKER:  <speaker>Robert Cavalier</speaker> (CMU Ethics Center)
+<paragraph> <sentence>SPEAKER:  <speaker>Robert Cavalier</speaker> (CMU Ethics Center)
  TOPIC: Redesigning the Classroom: Teaching and Technology
  	in Higher Educatio</sentence>n</paragraph>
 
- <paragraph><sentence>ABSTRACT: Not since the introduction of chalkboards in the 1800s has
+<paragraph> <sentence>ABSTRACT: Not since the introduction of chalkboards in the 1800s has
  the classroom been so challenged in regard to its basic design and
  pedagogical setting</sentence>.  <sentence>Neither overhead transparencies nor TV monitors
  provide the kind of dynamic, interactive capabilities seen on today's

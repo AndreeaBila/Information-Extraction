@@ -12,12 +12,12 @@ SPECIAL CIT SEMINAR:	Friday, June 5
 	  	      Dr. Seiichi Watanabe
 	         Sony Corporation Research Center
 
-  	   <paragraph><sentence>"An Overview of Recent Research Developments
+<paragraph>  	   <sentence>"An Overview of Recent Research Developments
 	         at Sony's Research Center in Japan</sentence>"</paragraph>
 
 <paragraph><sentence>Among the developments that he will be discussing are</sentence>:</paragraph>
 
-	<paragraph><sentence>*Seminconductor laser diodes
+<paragraph>	<sentence>*Seminconductor laser diodes
 	*Magnetic recording materials for high density storage
 	*Lithium ion rechargesable batteries
 	*A novel laser annealing process for functional polysilicon
@@ -29,4 +29,5 @@ Sony since 1967</sentence>.  <sentence>Dr. Watanabe received his bachelors, mast
 doctoral degrees in engineering from the University of Tokyo</sentence>.  <sentence>His 
 primary area of interest is high frequency semiconductor devices</sentence>.  <sentence>He
 recently published a book entitled "Seminconductor Devices for Electronic
-Tuners.</sentence>"</paragraph>
+Tuners.</sentence>"
+</paragraph>

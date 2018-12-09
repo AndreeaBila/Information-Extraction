@@ -7,8 +7,8 @@ Place:    <location>HH 1112</location>
 PostedBy: Mary Anne Cowden on 15-May-95 at 09:40 from andrew.cmu.edu
 Abstract: 
 
-
-<paragraph><sentence>There will be a special seminar this Friday, May 19, given by J. Eric Bracken, 
+<paragraph>
+<sentence>There will be a special seminar this Friday, May 19, given by J. Eric Bracken, 
 an ECE faculty candidate</sentence>.  <sentence>Please see the announcement below</sentence>.</paragraph>
 
 *******************************************************************************
@@ -18,7 +18,7 @@ an ECE faculty candidate</sentence>.  <sentence>Please see the announcement belo
                                                     J. Eric Bracken
                                         Carnegie Mellon University
 
-	<paragraph><sentence>Recently, there has been a great deal of interest in the creation of
+<paragraph>	<sentence>Recently, there has been a great deal of interest in the creation of
 low-order models to represent the behavior of linear interconnect
 circuits</sentence>. <sentence>Through approaches such as asymptotic waveform evaluation
 (AWE) and Pade' approximation, it is possible to efficiently compute a
@@ -26,7 +26,7 @@ simple macromodel of a complicated interconnect</sentence>. <sentence>This macro
 combined with nonlinear driver and receiver models to accelerate the
 analysis of the circuit's responses</sentence>.</paragraph>
 
-	<paragraph><sentence>One problem with Pade' approximation is that it may generate unstable
+<paragraph>	<sentence>One problem with Pade' approximation is that it may generate unstable
 results</sentence>. <sentence>These instabilities arise because the macromodel actually
 represents an active, energy-producing network</sentence>. <sentence>It would be better for
 an interconnect model to be totally passive, never generating energy on
@@ -39,7 +39,7 @@ input/output responses, the ladder realization consists entirely of
 positive-valued circuit elements; as a consequence, it is guaranteed to
 be passive and stable</sentence>.</paragraph>
 
-	<paragraph><sentence>The conditions under which Pade' approximation can be expected to
+<paragraph>	<sentence>The conditions under which Pade' approximation can be expected to
 produce stable results will be discussed</sentence>. <sentence>Also, the limitations of Pade'
 approximation will be described: for certain types of circuits and
 responses, there is simply no guarantee that stable results can be

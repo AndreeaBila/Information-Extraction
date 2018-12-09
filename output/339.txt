@@ -16,7 +16,7 @@ Abstract:
                          University of New Brunswick
                           Fredericton,  NB,  CANADA
 
-                              <paragraph><sentence>Monday, November 18
+<paragraph>                              <sentence>Monday, November 18
                               <stime>4:00 PM</stime>,  Wean 4605
 Reconfigurable learning machines are embodiments of the Evolving Transformation
 Systems (ETS), a new mathematical model proposed resently by the speaker</sentence>. <sentence>The

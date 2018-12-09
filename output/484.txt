@@ -13,14 +13,14 @@ Tse-Sung Wu  writes</sentence>:</paragraph>
 
 <paragraph><sentence>The next Engineering & Public Policy departmental seminar will take plac</sentence>e</paragraph>
 
-                     <paragraph><sentence>Thursday, January 27 at <stime>4:30 pm</stime>, 
-             in the <location>EPP conference room, located in BH-129</location>
+<paragraph>                     <sentence>Thursday, January 27 at <stime>4:30 pm</stime>, 
+             in the EPP conference room, located in BH-129
                          Professor Don Fullerton
                                Heinz School
               Household Demand for Garbage and Recycling Collection
                     with the Start of a Price per Ba</sentence>g</paragraph>
 
-                        <paragraph><sentence>**All are invited to attend*</sentence>*</paragraph>
+<paragraph>                        <sentence>**All are invited to attend*</sentence>*</paragraph>
 
 <paragraph><sentence>This paper estimates household reaction to the implemenation of a
 volume-based pricing program for the collecion of residential garbage</sentence>. 
@@ -44,14 +44,14 @@ reduction in garbage observed at the curb</sentence>.</paragraph>
 
 <paragraph><sentence>Refreshments
 ________
-Also, please note the next seminar is scheduled fo</sentence>r</paragraph> 
+Also, please note the next seminar is scheduled fo</sentence>r </paragraph>
 
                           Thursday, February 3, 1994
                                Dr. Daniel Reed
                           Post-Doctoral Researcher
                                Dept. of EPP 
 
-                           <paragraph><sentence>"Predicting Preferences</sentence>"</paragraph>
+<paragraph>                           <sentence>"Predicting Preferences</sentence>"</paragraph>
 
 <paragraph><sentence>Upcoming..</sentence>.</paragraph>
 
@@ -62,4 +62,5 @@ February 24: TBA
 <paragraph><sentence>___________
 Please direct all inquiries to Tse-Sung (tw1u) or Charlie (cl3e</sentence>)</paragraph>
 
-<paragraph><sentence>---------------- End Forwarded Message ---------------</sentence>-</paragraph>
+<paragraph><sentence>---------------- End Forwarded Message ---------------</sentence>-
+</paragraph>

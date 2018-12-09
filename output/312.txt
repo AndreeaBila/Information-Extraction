@@ -12,7 +12,7 @@ Abstract:
 
                        RI SEMINAR
 
- <paragraph><sentence>WHEN:     Friday, February 24, 1995; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+<paragraph> <sentence>WHEN:     Friday, February 24, 1995; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
           Refreshments will be served starting at 3:15 pm</sentence>.</paragraph>
 
  WHERE:    <location>ADAMSON WING Auditorium in Baker Hall</location>
@@ -49,4 +49,5 @@ several gradient descent methods</sentence>.  <sentence>Finally, we note that in
 integrated system with scarce sensor resources it is preferable to
 perform tasks with minimal sensing and look at an algorithm to use
 closed loop learning as an efficient search technique for eventual
-open loop execution</sentence>.</paragraph>
+open loop execution</sentence>.
+</paragraph>

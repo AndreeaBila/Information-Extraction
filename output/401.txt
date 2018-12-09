@@ -10,4 +10,5 @@ Abstract:
 the IRS will be available to answer your questions regarding federal income
 taxes</sentence>.  <sentence>Light refreshments will be available</sentence>.
 <sentence>Sponsored by the Office of Student Activities and the Office of International
-Education</sentence>.</paragraph>
+Education</sentence>.
+</paragraph>

@@ -14,7 +14,7 @@ Abstract:
 
                        RI SEMINAR
 
- <paragraph><sentence>WHEN:   Friday, Nov. 4, 1994; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+<paragraph> <sentence>WHEN:   Friday, Nov. 4, 1994; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
         Refreshments will be served starting at 3:15 p</sentence>m</paragraph>
 
  WHERE:  <location>ADAMSON WING Auditorium in Baker Hall</location>
@@ -50,14 +50,14 @@ to the robot's location using known information</sentence>.  <sentence>As the ro
 its sensors discover obstacles in its path</sentence>.  <sentence>These discoveries are
 handled by modifying the arc costs</sentence>.  <sentence>D* propagates cost changes
 minimally to compute a new optimal path</sentence>.  <sentence>The process repeats until
-the robot reaches the goal or determines that it cannot</sentence>.</paragraph>    
+the robot reaches the goal or determines that it cannot</sentence>.    </paragraph>
 
 <paragraph><sentence>D* was implemented and compared head-to-head with the brute force
 replanner to verify optimality and determine the performance
 improvement</sentence>.  <sentence>It was integrated with an obstacle avoidance system and
 tested on the Navlab II</sentence>.  <sentence>The robot succeeded in finding a specified
 goal in a cluttered environment given no initial map information</sentence>.  <sentence>The
-algorithm and the results will be presented</sentence>.</paragraph> 
+algorithm and the results will be presented</sentence>. </paragraph>
 
  Host: 		Yangsheng Xu (xu+@cs.cmu.edu)
  Appointment: 	Ava Cruse (avac@cs.cmu.edu)

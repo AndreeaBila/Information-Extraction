@@ -14,4 +14,5 @@ in communications, telephony, multimedia, and speech</sentence>. <sentence>Rick 
 invite interested grads and undergrads to attend this informal
 demonstration and discussion</sentence>.  <sentence>Graduate students interested in
 potential job opportunities are particularly encouraged to attend</sentence>.
-<sentence>Pizza will be served</sentence>.</paragraph>
+<sentence>Pizza will be served</sentence>.
+</paragraph>

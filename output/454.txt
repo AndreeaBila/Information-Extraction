@@ -15,7 +15,7 @@ Abstract:
 
                          Friday, December 2, 1994
 
-                    <paragraph><sentence><location>WeH <location>8220</location></location>      3:00 p.m. - 4:30 p.m.
+<paragraph>                    <sentence>WeH 8220      3:00 p.m. - 4:30 p.m.
      Modern shared-memory multiprocessors are inherently asynchronous:
      processes can be halted or delayed without warning by interrupts,
      pre-emption,  or  cache  misses</sentence>.    <sentence>In  such  environments, it is
@@ -23,7 +23,7 @@ Abstract:
      that continues to run will complete its work in a fixed number of
      steps, regardless of delays or failures by other processes</sentence>.</paragraph>
 
-     <paragraph><sentence>In the past  few  years,  considerable  progress  has  been  made
+<paragraph>     <sentence>In the past  few  years,  considerable  progress  has  been  made
      understanding   wait-free   protocols   for   systems   in  which
      asynchronous processes communicate by reading and writing  shared
      variables</sentence>.    <sentence>Nevertheless, relatively little is known about such
@@ -33,7 +33,7 @@ Abstract:
      many  modern  multiprocessor architectures provide these kinds of
      built-in primitives</sentence>.</paragraph>
 
-     <paragraph><sentence>Some recent partial progress on this question is reviewed</sentence>.    <sentence>Set
+<paragraph>     <sentence>Some recent partial progress on this question is reviewed</sentence>.    <sentence>Set
      consensus,  a  simple  generalization of the well-known consensus
      problem  is  considered</sentence>.    <sentence>Any  synchronization  problem  has  a
      characteristic  geometric structure, called a simplicial complex,
@@ -49,5 +49,6 @@ Abstract:
 
       Note: Joint work with Sergio Rajsbaum, MIT.
 
-     <paragraph><sentence>If you would like to talk with Professor Herlihy, please  contact
-     Marge at 85025 or mp3r@cs for available times</sentence>.</paragraph>
+<paragraph>     <sentence>If you would like to talk with Professor Herlihy, please  contact
+     Marge at 85025 or mp3r@cs for available times</sentence>.
+</paragraph>

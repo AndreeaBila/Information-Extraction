@@ -15,7 +15,7 @@ Abstract:
                         Nathaniel S. Borenstein
                                 Bellcore
 
-                <paragraph><sentence>Moving Multimedia Mail into the Mainstream:  
+<paragraph>                <sentence>Moving Multimedia Mail into the Mainstream:  
                    Four Ideas for the Email of Tomorro</sentence>w</paragraph>
 
 <paragraph><sentence>Email in general, and multimedia mail in particular, have long suffered
@@ -77,4 +77,5 @@ ______________________________________________________________</paragraph>
  Host:  David Garlan
 
 <paragraph><sentence>If you are interested in speaking with Nathaniel Borenstein while is here
-Monday, please send mail to Ava Cruse at avac@b.cs.cmu.ed</sentence>u</paragraph>
+Monday, please send mail to Ava Cruse at avac@b.cs.cmu.ed</sentence>u
+</paragraph>

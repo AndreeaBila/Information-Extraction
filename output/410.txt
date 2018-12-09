@@ -29,6 +29,7 @@ automated reasoner's search procedure</sentence>.</paragraph>
 <paragraph><sentence>We describe programs and card games which model case-based legal
 argument and reasoned settlement</sentence>.</paragraph>
 
- <paragraph><sentence>Host: Bob Carpenter 
+<paragraph> <sentence>Host: Bob Carpenter 
 For Further Details and appointments contact: (carp@lcl.cmu.edu)
- phone: x8-8043 or (fax: 268-1440</sentence>)</paragraph>
+ phone: x8-8043 or (fax: 268-1440</sentence>)
+</paragraph>

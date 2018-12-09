@@ -11,7 +11,7 @@ Abstract:
 
 			    Wednesday November 11
  		      Reception: <stime>2:40</stime>, Talk: 3:00-4:00
- 			  Baker Hall, <location>Adamson Wing</location>
+ 			  <location>Baker Hall, Adamson Wing</location>
 
 			  Computer Graphics Snacks
 
@@ -23,7 +23,7 @@ Abstract:
         Mutation & Selection  Parametric Design  Tiny Pix  X-Ray Views  
     			Marbled Paper  Digital Lighting
 
-	    <paragraph><sentence>As an alternative to complex and fattening topics in
+<paragraph>	    <sentence>As an alternative to complex and fattening topics in
 	    computer graphics I'll show and talk about several 
 	    little projects I've been exploring over the last few 
 	    years</sentence>.  <sentence>We'll look at techniques for making hidden 
@@ -39,4 +39,5 @@ Abstract:
  host: Paul Heckbert, ph@cs.cmu.edu, 268-7899
 
 <paragraph><sentence>For appointments with the speaker on Thursday Nov. 12, email
-Phyllis.Pomerantz@cs.cmu.edu or call her at 268-7897</sentence>.</paragraph>
+Phyllis.Pomerantz@cs.cmu.edu or call her at 268-7897</sentence>.
+</paragraph>

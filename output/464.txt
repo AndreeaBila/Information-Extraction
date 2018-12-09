@@ -41,4 +41,5 @@ implicated in the logical analysis of Petri Nets and there is research
 on-going into applying it for the theory of programming languages and
 communication architectures</sentence>. <sentence>Incidently, Linear Logic with
 exponentials has been shown to be undecidable by John Mitchell, Andre
-Scedrov, et</sentence>. <sentence>al., however without the exponentials it is decidable</sentence>.</paragraph>
+Scedrov, et</sentence>. <sentence>al., however without the exponentials it is decidable</sentence>.
+</paragraph>

@@ -6,8 +6,8 @@ Time:     <stime>9:00 AM</stime>
 PostedBy: jass+ on 10-Feb-93 at 17:05 from cs.cmu.edu (Jaspal Subhlok)
 Abstract: 
 
-
-<paragraph><sentence>The lecture is on Friday  Feb 12</sentence>. <sentence>I wrote a different date at one
+<paragraph>
+<sentence>The lecture is on Friday  Feb 12</sentence>. <sentence>I wrote a different date at one
 place  inside the message</sentence>. Sorry about the confusion.</paragraph>
 
 jas

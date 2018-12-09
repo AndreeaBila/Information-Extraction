@@ -14,7 +14,7 @@ Abstract:
 
                        RI SEMINAR
 
- <paragraph><sentence>WHEN:     Friday, March 3, 1995; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+<paragraph> <sentence>WHEN:     Friday, March 3, 1995; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
           Refreshments will be served starting at 3:15 pm</sentence>.</paragraph>
 
  WHERE:    <location>ADAMSON WING Auditorium in Baker Hall</location>

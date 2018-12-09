@@ -1,4 +1,4 @@
-<0.26.1.93.13.23.26.maa+<location>@ISL</location>1.RI.CMU.EDU (Michelle Agie).0>
+<0.26.1.93.13.23.26.maa+@ISL1.RI.CMU.EDU (Michelle Agie).0>
 Type:     cmu.cs.robotics
 Who:      <speaker>Daniela Rus</speaker>, Cornell University
 Topic:    FINE MOTION PLANNING FOR DEXTEROUS MANIPULATION
@@ -12,7 +12,7 @@ Abstract:
 
                            RI SEMINAR
 
- <paragraph><sentence>WHEN:     Friday, Jan 29, 1993; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+<paragraph> <sentence>WHEN:     Friday, Jan 29, 1993; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
           Refreshments will be served by 3:15 p</sentence>m</paragraph>
 
  WHERE:    <location>ADAMSON WING Auditorium in Baker Hall</location>
@@ -21,7 +21,7 @@ Abstract:
 
  TITLE:    FINE MOTION PLANNING FOR DEXTEROUS MANIPULATION
 
-         <paragraph><sentence>*Those wishing to meet and talk with <speaker>Daniela Rus</speaker> can schedule
+<paragraph>         <sentence>*Those wishing to meet and talk with <speaker>Daniela Rus</speaker> can schedule
           an appointment with Phyliss Pomerantz, by calling 7897 or sending
           e-mail to plp@c</sentence>s</paragraph>
 
@@ -38,7 +38,7 @@ reorientation</sentence>.  <sentence>We present an efficient and exact $O(n\log 
 algorithm for the reorientation of polygonal objects of size $n$ and
 show its extension to polyhedra</sentence>. <sentence>This algorithm exploits 
 the geometric structure of the problem and the task mechanics and
-is near-sensorless, in that it requires only sparse sensing</sentence>.</paragraph>  
+is near-sensorless, in that it requires only sparse sensing</sentence>.  </paragraph>
 
 <paragraph><sentence>We are currently implementing the planar reorientation problem in the
 context of a team of cooperating autonomous mobile robots</sentence>.
@@ -50,4 +50,5 @@ with error bounds and demonstrate its performance with a video</sentence>.
 exploration of how, even with sparse and noisy sensors typically found
 on mobile robots, we can build adequate accounts and detailed models
 of manipulable objects, while satisfying the modeling and information
-requests of near-sensorless manipulation planners</sentence>.</paragraph> 
+requests of near-sensorless manipulation planners</sentence>. 
+</paragraph>

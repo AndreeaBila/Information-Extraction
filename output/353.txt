@@ -13,7 +13,7 @@ Abstract:
 
 RI SEMINAR
 
- <paragraph><sentence>WHEN:		Friday, 16 Ocotober 1992, <stime>3:30</stime> - <etime>5:00 pm</etime>
+<paragraph> <sentence>WHEN:		Friday, 16 Ocotober 1992, <stime>3:30</stime> - <etime>5:00 pm</etime>
 		Refreshments to be served by 3:15 p</sentence>m</paragraph>
 
  WHERE:		<location>DOHERTY HALL 2315 (*NOTE ROOM*)</location>

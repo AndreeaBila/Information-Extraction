@@ -14,7 +14,7 @@ Abstract:
 	         Carnegie Mellon University
 
                          <stime>3:30 pm</stime>
-                      <location>7500 Wean Hall</location>
+                      7500 Wean Hall
 
 <paragraph><sentence>Machine learning has evolved from obscurity in the 1970s into a
 vibrant and popular discipline in artificial intelligence during the

@@ -27,7 +27,7 @@ computer applications are of little help for improving the efficiency of the
 routine mental work of the information economy, and have been improving too
 slowly</sentence>. <sentence>The good news is that simple, cheap, empirical usability
 evaluation and redesign can turn the situation around</sentence>. <sentence>Fairly compelling
-evidence will be displayed</sentence>.</paragraph> 
+evidence will be displayed</sentence>. </paragraph>
 
 Further Details:
 
@@ -37,4 +37,5 @@ seminar speakers</sentence>.
 Eric Gardner				email: avatar@cmu.edu
 Engineering Design Research Center	voice: (412) 268-5222
 Carnegie Mellon University		fax:   (412) 268-5229	
-5000 Forbes Avenue</paragraph>
+5000 Forbes Avenue
+</paragraph>

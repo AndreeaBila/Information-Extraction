@@ -6,7 +6,7 @@ Who:      <speaker>Professor Hirofumi Miura</speaker>,
 Topic:    Dexterity and Intelligence in Robotic Systems
 Dates:    5-Apr-91
 Time:     <stime>3:30 PM</stime>
-Place:    Baker Hall, <location>Adamson Wing</location>
+Place:    <location>Baker Hall, Adamson Wing</location>
 Host:     Michael Erdmann, x7883
 PostedBy: L.R.Adkins-Shellie on 5-Apr-91 at 09:34 from B.GP.CS.CMU.EDU
 Abstract: 
@@ -18,7 +18,7 @@ Abstract:
  Title:    Dexterity and Intelligence in Robotic Systems
  Date:     April 5, 1991
  Time:     3:30 p.m. until 4:30 p.m.
- Location: Baker Hall, <location>Adamson Wing</location>
+ Location: <location>Baker Hall, Adamson Wing</location>
  Host:     Michael Erdmann, x7883
 
 <paragraph><sentence>There are many kinds of dexterous tasks which can be done easily by skilled
@@ -28,9 +28,9 @@ very difficult to write control programs for robots</sentence>.</paragraph>
 
 <paragraph><sentence>I will discuss the dynamics and control of intelligent robots, for such
 dexterous tasks, which have been developed in our laboratory</sentence>. <sentence>These robots
- include</sentence>:</paragraph> 
+ include</sentence>: </paragraph>
 
- 	<paragraph><sentence>a cup and ball game playing robot(KENDAMA robot),
+<paragraph> 	<sentence>a cup and ball game playing robot(KENDAMA robot),
  	a top-spinning robot(KOMAMAWASHI robot),
  	a stilts-type biped robot(TAKEUMA robot),
  	a quadruped robot,
@@ -47,7 +47,7 @@ spin a top</sentence>. <sentence>My brother showed me how to spin a top, and I l
 a string at a good timing".</sentence>]  <sentence>Our robot system learns the ropes of 
 top-spinning by obvserving a human performing the action through video camera 
 and creates the control program to spin the top based on the observation</sentence>.  
-<sentence>Our robot is able to spin a top successfully</sentence>.</paragraph> 
+<sentence>Our robot is able to spin a top successfully</sentence>. </paragraph>
 
 <paragraph><sentence>In the talk, video demonstrations of several of our robot systems will be
 presented</sentence>.</paragraph>
@@ -56,4 +56,5 @@ presented</sentence>.</paragraph>
 Refreshments will be served from 3:15-3:30</sentence>.  
 Discussion and questions:  4:30-5:00.
 <sentence>Everyone in the CMU community is invited to attend</sentence>.
-----------</paragraph>
+----------
+</paragraph>

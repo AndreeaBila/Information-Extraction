@@ -10,7 +10,7 @@ Host:     Sing Bing Kang (sbk@cs)
 PostedBy: sbk+ on 20-May-93 at 15:51 from cs.cmu.edu (Sing Bing Kang)
 Abstract: 
 
- <paragraph>Date:		25-May-93, Tuesday
+<paragraph> Date:		25-May-93, Tuesday
  Time:		3:00pm
  Place:		<location>WeH4623</location>
  Duration:	75 mins.
@@ -23,7 +23,7 @@ Abstract:
 
 Topic 1: Object Segmentation Techniques for use in Visual Automation
 
-    <paragraph><sentence>In designing automated systems for interpretation or manipulation of
+<paragraph>    <sentence>In designing automated systems for interpretation or manipulation of
     laboratory image data such as that derived from microphotographs, it is
     often the goal to perform operations that extract information about the
     structure of objects, and to separate and discern various objects within
@@ -38,7 +38,7 @@ Topic 1: Object Segmentation Techniques for use in Visual Automation
 
 <paragraph><sentence>Topic 2: Constraint Based Feature Indexing and Retrieval for Image Database</sentence>s</paragraph>
 
-              <paragraph><sentence>Advance presentation of paper being presented at the
+<paragraph>              <sentence>Advance presentation of paper being presented at the
                       AFCEA/ITEMS '93 conference, Document
                          Processing Applications Track</sentence>.</paragraph>
 

@@ -7,8 +7,8 @@ Place:    <location>Wean Hall 5409</location>
 PostedBy: prs+ on 26-Sep-94 at 11:56 from N2.SP.CS.CMU.EDU (peter steenkiste)
 Abstract: 
 
-
-<paragraph><sentence>Steve McGeady from Intel will be at CMU on Oct 17 and give a CS/PSC/PS
+<paragraph>
+<sentence>Steve McGeady from Intel will be at CMU on Oct 17 and give a CS/PSC/PS
 seminar</sentence>.  <sentence>Appended is an abstract of his presentation on "The new computer
 and communications industry"</sentence>.</paragraph>
 
@@ -40,5 +40,6 @@ being made available to enable new applications in the office and at home</sente
 analyze the ongoing and impending shifts in the communications industry, and
 highlight Architecture Labs and Intel's Media Delivery Lab</sentence>.</paragraph>
 
- <paragraph><sentence>When:	October 17, 3:30pm
- Where:	Wean Hall 540</sentence>9</paragraph>
+<paragraph> <sentence>When:	October 17, 3:30pm
+ Where:	Wean Hall 540</sentence>9
+</paragraph>

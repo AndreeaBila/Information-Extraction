@@ -9,8 +9,8 @@ Host:     Danny Sleator
 PostedBy: plp+ on 18-Feb-94 at 16:54 from PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz)
 Abstract: 
 
-
- <paragraph><sentence>Type:     AI Seminar
+<paragraph>
+ <sentence>Type:     AI Seminar
  Who:      <speaker>Eugene Charniak</speaker>
  Topic:    Improved Statistical Language Models from Syntactic Parsing
  Dates:    22-Feb-94
@@ -46,4 +46,5 @@ significantly improves the quality of the learned grammar</sentence>.  <sentence
 learn a ``pseudo-context-sensitive'' grammar by collecting extra statistics
 on rule application (``pseudo'' because the resulting formalism could be put
 back into context-free form by multiplying out the non-terminals of the
-language)</sentence>.  <sentence>This too leads to significant improvements</sentence>.</paragraph>
+language)</sentence>.  <sentence>This too leads to significant improvements</sentence>.
+</paragraph>

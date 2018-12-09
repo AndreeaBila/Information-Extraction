@@ -35,4 +35,5 @@ expressions, statements, and procedures</sentence>.
 
 <paragraph><sentence>If  you  are interested in speaking with David Wile while he is
 here on Thursday April 16th, please send e-mail to Cary Lund at
-cary@cs</sentence>.</paragraph>
+cary@cs</sentence>.
+</paragraph>

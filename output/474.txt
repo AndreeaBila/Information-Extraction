@@ -1,6 +1,6 @@
 <0.06.4.92.23.10.54.trg+@N3.SP.CS.CMU.EDU (Thomas Gross).0>
 Type:     cmu.cs.scs
-Topic:    CS Seminar 4/10: Leiserson of MIT/TMC @ 4:00 p.m., <location>WeH 5403</location>
+Topic:    CS Seminar 4/10: Leiserson of MIT/TMC @ 4:00 p.m., WeH 5403
 Dates:    10-Apr-92
 Time:     <stime>4:00 PM</stime>
 PostedBy: trg+ on 06-Apr-92 at 23:10 from N3.SP.CS.CMU.EDU (Thomas Gross)
@@ -17,7 +17,7 @@ Abstract:
 		    Thinking Machines Corporation
 		       Cambridge, Massachusetts
 
-		Friday, Apr 10, 4:00 p.m., <location>WeH 5403</location>
+		Friday, Apr 10, 4:00 p.m., WeH 5403
 
 <paragraph><sentence>The Connection Machine Model CM-5 Supercomputer is a massively
 parallel computer system designed to offer performance in the range of
@@ -35,4 +35,5 @@ Hillis, Bradley C. Kuszmaul, Margaret A. St.~Pierre, David S. Wells,
 Monica C. Wong, Shaw-Wen Yang, Robert Zak, and about 500 others</sentence>.</paragraph>
 
 <paragraph><sentence>---
-If you want to talk to Charles Leiserson, please send mail to Marian D'Amico</sentence>.</paragraph>
+If you want to talk to Charles Leiserson, please send mail to Marian D'Amico</sentence>.
+</paragraph>

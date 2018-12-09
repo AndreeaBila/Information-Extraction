@@ -99,4 +99,5 @@ screw-based motion-links an parameterized (animated) object-leaves</sentence>.</
 <paragraph><sentence>The speaker may be contacted at jarek@watson.ibm.co</sentence>m</paragraph>
 
 <paragraph><sentence>For appointments with the speaker on Tuesday morning,
-email Phyllis.Pomerantz@cs or call 268-7897</sentence>.  Host: Paul Heckbert.</paragraph>
+email Phyllis.Pomerantz@cs or call 268-7897</sentence>.  Host: Paul Heckbert.
+</paragraph>

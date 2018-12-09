@@ -6,16 +6,16 @@ Who:      <speaker>Dr.Ted Adelson</speaker>-Associate Professor of Vision Scienc
 Topic:    Elemental measurements in vision.
 Dates:    18-Sep-92
 Time:     <stime>3:30 PM</stime> - <etime>5:00 PM</etime>
-Place:    <location>Baker Hall - <location>Adamson Wing</location></location>
+Place:    <location>Baker Hall - Adamson Wing</location>
 PostedBy: tmeadows on 18-Sep-92 at 08:29 from resumix.portal.com (Tim Meadows)
 Abstract: 
 
 RI SEMINAR
 
- <paragraph><sentence>WHEN:	Friday, Sept. 18, 1992; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+<paragraph> <sentence>WHEN:	Friday, Sept. 18, 1992; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
 	Refreshments will be served by 3:15 p</sentence>m</paragraph>
 
- WHERE:	<location>Baker Hall - <location>Adamson Wing</location></location>
+ WHERE:	<location>Baker Hall - Adamson Wing</location>
 
  SPEAKER:	<speaker>Dr.Ted Adelson</speaker>-Associate Professor of Vision Science-
      	Media Laboratory and the Dept. of Brain and Cognitive
@@ -23,7 +23,7 @@ RI SEMINAR
 
  TITLE:	Elemental measurements in vision.
 
- <paragraph><sentence>ABSTRACT:	Posted Earlie</sentence>r</paragraph>
+<paragraph> <sentence>ABSTRACT:	Posted Earlie</sentence>r</paragraph>
 
 <paragraph><sentence>Hosted by :	Hagen Schempf, x688</sentence>4</paragraph>
 

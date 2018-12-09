@@ -6,7 +6,7 @@ Topic:    Learning Control for Improved Performance in
           Repetitive Robot Operations
 Dates:    6-Mar-92
 Time:     <stime>3:30 PM</stime>
-Place:    Baker Hall, <location>Adamson Wing</location>
+Place:    <location>Baker Hall, Adamson Wing</location>
 Host:     Hagen Schempf, x6884
 PostedBy: tmeadows on 04-Mar-92 at 13:43 from frc.ri.cmu.edu (Tim Meadows)
 Abstract: 
@@ -16,7 +16,7 @@ RI SEMINAR
 
  WHEN:	Friday, March 6, 1992, <stime>3:30 PM</stime>
 
- <paragraph><sentence>WHERE:	Baker Hall, <location>Adamson Wing</location>
+<paragraph> <sentence>WHERE:	<location>Baker Hall, Adamson Wing</location>
 	Refreshments to be served by 3:15 P</sentence>M</paragraph>
 
  SPEAKER:	<speaker>Richard W. Longman</speaker>, 

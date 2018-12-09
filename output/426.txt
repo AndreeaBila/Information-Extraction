@@ -31,10 +31,10 @@ benefit to increasing the visual fidelity of the environment</sentence>?  <sente
 for the Common Code" was used in a formal experiment to address this
 question, and more specifically to address the following</sentence>:</paragraph>
 
-  <paragraph><sentence>- what role does the frame rate of visual material play in the students'
+<paragraph>  <sentence>- what role does the frame rate of visual material play in the students'
     perception of and ability to recall presented information</sentence>?</paragraph>
 
-  <paragraph><sentence>- does the use of surrogate travel, rather than a single image, 
+<paragraph>  <sentence>- does the use of surrogate travel, rather than a single image, 
     point-and-click navigation interface, have any effect on student 
     recall and perception of presented material</sentence>?</paragraph>
 

@@ -5,8 +5,8 @@ Dates:    21-Apr-95
 Time:     <stime>3:30</stime> - <etime>5:00</etime>
 Host:     Katsushi Ikeuchi, x8-6349
 PostedBy: me on 13-Apr-95 at 03:24 from H.GP.CS.CMU.EDU (Michael Erdmann)
-Abstract: 
-<paragraph><sentence>There is no Robotics Seminar this Friday</sentence>.
+Abstract:<paragraph> 
+<sentence>There is no Robotics Seminar this Friday</sentence>.
 <sentence>Next Friday's seminar will be</sentence>:</paragraph>
 
 ------------------------------------------------------------------------------
@@ -14,7 +14,7 @@ Abstract:
 
 Friday April 21, <stime>3:30</stime>-<etime>5:00</etime>
 Refreshments 3:15
-<location><location>Adamson Wing</location>, Baker Hall</location>
+<location>Adamson Wing, Baker Hall</location>
 	           Real-Time Focus Range Sensor
 		   ----------------------------
 

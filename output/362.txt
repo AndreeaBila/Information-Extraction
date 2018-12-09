@@ -1,4 +1,4 @@
-<0.22.3.93.11.51.27.feline+<location>@ISL</location>1.RI.CMU.EDU (Carol S Boshears).0>
+<0.22.3.93.11.51.27.feline+@ISL1.RI.CMU.EDU (Carol S Boshears).0>
 Type:     cmu.cs.robotics
 Topic:    Seminar
 Dates:    30-Mar-93
@@ -42,4 +42,5 @@ University of Illinois</sentence>)</paragraph>
 
 <paragraph><sentence>Steve is interested in meeting with anyone working on projects in planning,
 scheduling and learning</sentence>. <sentence>If you are interested in meeting with Steve, please
-set up a time with Carol (boshears@isl1.ri.cmu.edu)</sentence>.</paragraph>
+set up a time with Carol (boshears@isl1.ri.cmu.edu)</sentence>.
+</paragraph>

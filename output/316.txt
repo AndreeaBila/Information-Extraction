@@ -10,7 +10,7 @@ Host:     <speaker>Herbert Simon</speaker>
 PostedBy: plp+ on 31-Mar-95 at 11:59 from HOSTESS.GRAPHICS.CS.CMU.EDU (Phyllis Pomerantz)
 Abstract: 
 
- <paragraph><sentence>Type:     Joint AI/HCI Seminar
+<paragraph> <sentence>Type:     Joint AI/HCI Seminar
  Who:      <speaker>Harold Cohen</speaker> / UC at San Diego
  Topic:    AARON: In Living Color
  Dates:    18-Apr-95
@@ -24,7 +24,7 @@ Abstract:
 <paragraph><sentence>During the past four years, work on the AARON program has been directed
 primarily to giving it the ability to color its own drawings, and most
 recently to providing it with a painting machine with which it could do
-so in the real world</sentence>.</paragraph> 
+so in the real world</sentence>. </paragraph>
 
 <paragraph><sentence><speaker>Harold Cohen</speaker> discusses some of the issues that have arisen in this
 task; for example, the problem of mapping the results of working in

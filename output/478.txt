@@ -36,4 +36,5 @@ different from proving that a program satisfies a property</sentence>.</paragrap
 <paragraph><sentence>The temporal logic of actions is the right logic</sentence>.  <sentence>It provides a tool that 
 can help us cope with the complexity of verifying real concurrent algorithms</sentence>.</paragraph>
 
-<paragraph><sentence>No previous fondess for logic is assumed</sentence>.</paragraph>
+<paragraph><sentence>No previous fondess for logic is assumed</sentence>.
+</paragraph>

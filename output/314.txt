@@ -10,7 +10,7 @@ Host:     Raul Valdes-Perez
 PostedBy: plp+ on 1-Mar-95 at 09:55 from HOSTESS.GRAPHICS.CS.CMU.EDU (Phyllis Pomerantz)
 Abstract: 
 
- <paragraph><sentence>Type:     AI Seminar
+<paragraph> <sentence>Type:     AI Seminar
  Who:      <speaker>Oren Etzioni</speaker> / University of Washington
  Topic:    Learning to Understand Information on the Internet</sentence>.
  Dates:    7-Mar-95
@@ -19,7 +19,7 @@ Abstract:
  Duration: 1 1/2 hours
  Host:     Raul Valdes-Perez</paragraph>
 
- <paragraph><sentence>Title: Learning to Understand Information on the Internet</sentence>.</paragraph>
+<paragraph> <sentence>Title: Learning to Understand Information on the Internet</sentence>.</paragraph>
 
 <paragraph><sentence>The explosive growth in the number and diversity of information
 sources on the Internet is rapidly outstripping our ability to find

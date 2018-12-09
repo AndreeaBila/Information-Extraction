@@ -16,7 +16,7 @@ Friday November 15, 1991	TODAY
 	Dr. Chris McGlone
 	Fairchild Weston Systems
 
-	<paragraph><sentence>Photogrammetry and image understanding are complementary fields; 
+<paragraph>	<sentence>Photogrammetry and image understanding are complementary fields; 
 image understanding is concerned with "what", while photogrammetry is 
 concerned with "where.</sentence>"  <sentence>While there has been some productive cross-
 fertilization, there are many further possibilities for useful 

@@ -12,11 +12,11 @@ Abstract:
 
                                   SEMINAR
 
-    <paragraph><sentence>The <location>Pittsburgh Supercomputing Center</location> (PSC) is hosting a seminar titled</sentence>:</paragraph>
+<paragraph>    <sentence>The <location>Pittsburgh Supercomputing Center</location> (PSC) is hosting a seminar titled</sentence>:</paragraph>
 
         ***Computational Materials Science:  The Dawn of a New Age***
 
-                                <paragraph><sentence>presented by
+<paragraph>                                <sentence>presented by
                              Arthur J.  Freeman
                      Department of Physics and Astronomy
                            Northwestern Universit</sentence>y</paragraph>

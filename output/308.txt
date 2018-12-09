@@ -14,7 +14,7 @@ Carnegie Mellon                                              SCS AI Seminar
 
 	  INTEGRATING KNOWLEDGE SOURCES IN LANGUAGE COMPREHENSION
 
-			 <paragraph>Tuesday, 12 February 1991
+<paragraph>			 Tuesday, 12 February 1991
 			    <stime>3:30</stime>-<etime>5:00</etime> <location>WeH 5409</location>
     Multiple types   of  knowledge (syntax,  semantics,   pragmatics, etc.)
 <sentence>contribute to establishing the meaning of  an  utterance</sentence>.  <sentence>Delaying the use

@@ -9,7 +9,7 @@ Host:     Michael Erdmann
 PostedBy: plp+ on 28-Jan-94 at 10:19 from PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz)
 Abstract: 
 
- <paragraph><sentence>Type:     AI Seminar
+<paragraph> <sentence>Type:     AI Seminar
  Who:      <speaker>Dan Weld</speaker>, University of Washington
  Topic:    Planning: Recent Results
  Dates:    8-Feb-94

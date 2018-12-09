@@ -6,7 +6,7 @@ Time:     <stime>3:30 PM</stime>
 PostedBy: tmeadows on 11-Feb-92 at 16:00 from frc2.frc.ri.cmu.edu (Tim Meadows)
 Abstract: 
 
-                      <paragraph><sentence>February 14, 1992
+<paragraph>                      <sentence>February 14, 1992
                      3:30pm  -- <location>WeH 5409</location>
 In many applications such as geometric modeling and data compression, 
 there arises the need to construct sparse approximations to discrete 

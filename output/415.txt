@@ -8,7 +8,7 @@ Abstract:
 
 	<location>Pittsburgh Supercomputing Center</location> (PSC)/Computer Systems Seminar
 
-                <paragraph><sentence>The S3.mp Scalable Shared Memory Multiprocessor:
+<paragraph>                <sentence>The S3.mp Scalable Shared Memory Multiprocessor:
 		      The Network is the Computer, really</sentence>!</paragraph>
 
 			     Andreas  Nowatzyk 

@@ -1,4 +1,4 @@
-<0.18.9.91.12.12.32.maa+<location>@ISL</location>1.RI.CMU.EDU (Michelle Agie).0>
+<0.18.9.91.12.12.32.maa+@ISL1.RI.CMU.EDU (Michelle Agie).0>
 Type:     cmu.cs.robotics
 Who:      <speaker>D. Navinchandra</speaker>
 Topic:    Product Design for Environmental Compatibility
@@ -34,4 +34,5 @@ final disposal</sentence>.</paragraph>
 <paragraph><sentence>We will examine a two part approach to green engineering: (1) the development
 of special @i(green indicators) - measures of environmental
 compatibility, and (2) tools that use the green indicators to help designers
-assess, compare, and make design decisions</sentence>.</paragraph>
+assess, compare, and make design decisions</sentence>.
+</paragraph>

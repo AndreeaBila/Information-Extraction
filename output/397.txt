@@ -21,4 +21,5 @@ audience can have camera time to ask questions</sentence>.</paragraph>
 <paragraph><sentence>Wednesday's seminars are still experiemental</sentence>.  <sentence>Many sites have yet to
 get all the equipment working for such an ambitious conference call</sentence>.
 <sentence>Even if everything is working well, there will be a noticeable lag
-between your speech and its broadcast to your and others' monitors</sentence>.</paragraph>
+between your speech and its broadcast to your and others' monitors</sentence>.
+</paragraph>

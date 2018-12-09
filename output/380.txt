@@ -18,5 +18,5 @@ individuals</sentence>. <sentence>The featured speaker is</sentence>:</paragraph
 	"THE RISE AND FALL OF THE DATA ENCRYPTION STANDARD"
 		   Friday, 16 October 1992
  			  <stime>3:00 pm</stime>
-			<location>Wean 7500</location>
+			Wean 7500
 Enjoy....

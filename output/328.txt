@@ -15,4 +15,5 @@ domain software at the source code level</sentence>. <sentence>In recent years, 
 (the leading commercial visualization software) have pioneered many
 concepts/features that shaped the major themes in visualization tools</sentence>. <sentence>apE
 claims an installation base of over 800 sites internationally</sentence>. <sentence>The short
-presentation will give an overview of apE and the OSC visualization project</sentence>.</paragraph>
+presentation will give an overview of apE and the OSC visualization project</sentence>.
+</paragraph>

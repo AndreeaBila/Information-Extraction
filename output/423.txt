@@ -21,4 +21,5 @@ styles</sentence>. <sentence>The diverse speaking styles that have been studied 
 presented, then an overview of the work will be given, based on the end
 goals of each study (ameliorating synthesis, etc.)</sentence>. <sentence>Examples will then be
 given of state-of-the-art databases and synthesis</sentence>. <sentence>Finally, a new
-multi-level study under way at present at LIMSI will be described</sentence>.</paragraph>
+multi-level study under way at present at LIMSI will be described</sentence>.
+</paragraph>

@@ -13,7 +13,7 @@ recent faculty hire due to arrive full time next spring</sentence>.
 interesting work that was not covered in his interview talk
 last spring</sentence>.</paragraph>
 
-<paragraph><sentence>He speaks promptly at <stime>11:50</stime> until 12:00 in <location>Wean 5409</location></sentence>.
+<paragraph><sentence>He speaks promptly at <stime>11:50</stime> until 12:00 in Wean 5409</sentence>.
 ---------------</paragraph>
 
 Practical Data breakpoints: Design and Implementation
@@ -43,4 +43,5 @@ independent of the number of breakpoints in use</sentence>.  <sentence>Data flow
 eliminated an average of 79% of the dynamic write checks</sentence>.  <sentence>For
 scientific programs such the NAS kernels, analysis reduced write
 checks by a factor of ten or more</sentence>.  <sentence>On the Sparc-2 these optimizations
-reduced the average overhead to 27%</sentence>.</paragraph>
+reduced the average overhead to 27%</sentence>.
+</paragraph>

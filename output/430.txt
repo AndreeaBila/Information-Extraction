@@ -19,7 +19,7 @@ Abstract:
 **********************************************************
 		LOGIC COLLOQUIUM
 	      Thursday, 7 November
-		3:30, <location>Wean 5409</location>
+		3:30, Wean 5409
 **********************************************************
 
             Basic Paramodulation 
@@ -50,7 +50,7 @@ and Strict Superposition calculi, and discuss the
 role of deletion rules such as simplification and
 subsumption and of blocking rules for avoiding redundant
 inferences</sentence>. <sentence>Benchmarks with our prototype implementation
-will also be discussed</sentence>.</paragraph> 
+will also be discussed</sentence>. </paragraph>
 
 Joint work with L. Bachmair, H. Ganzinger, and C. Lynch
 

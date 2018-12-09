@@ -13,7 +13,7 @@ Abstract:
 
                            Thursday, October 7, 1993
                                     <stime>4:00 PM</stime>
-                                <location>Wean Hall 7500</location>
+                                Wean Hall 7500
 			      UBIQUITOUS COMPUTING
 
 <paragraph><sentence>Inspired  by  the social scientists, philosophers, and anthropologists at PARC,
@@ -42,4 +42,5 @@ ubiquitous  computing,  the  research  approach, and some specific scenarios of
 future computing that we  consider  important</sentence>.    <sentence>I'll  distinguish  ubiquitous
 computing  from  notebook, palmtop, multimedia, personal digital assistant, GUI
 and virtual reality computing</sentence>.  <sentence>And I'll describe some of the current state  of
-our hardware and software</sentence>.</paragraph>
+our hardware and software</sentence>.
+</paragraph>

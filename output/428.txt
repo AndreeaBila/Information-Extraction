@@ -1,6 +1,6 @@
 <0.28.10.91.23.00.10.trg+@IUS3.IUS.CS.CMU.EDU (Thomas Gross).0>
 Type:     cmu.cs.scs
-Topic:    PSC/CS Seminar 11/1 <stime>4:00</stime> <location>WeH 5403</location>: J. Smith of Cray Research
+Topic:    PSC/CS Seminar 11/1 <stime>4:00</stime> WeH 5403: J. Smith of Cray Research
 Dates:    1-Nov-91
 Time:     <stime>4:00</stime>
 PostedBy: trg+ on 28-Oct-91 at 23:00 from IUS3.IUS.CS.CMU.EDU (Thomas Gross)
@@ -8,7 +8,7 @@ Abstract:
 
 
 		    PSC/Computer Systems Seminar  
-		Friday Nov 1, 1991  <stime>4:00</stime> p.m.  <location>WeH 5403</location>
+		Friday Nov 1, 1991  <stime>4:00</stime> p.m.  WeH 5403
 
                Supercomputer  Interconnection Networks
 
@@ -16,7 +16,7 @@ Abstract:
                        Cray Research, Inc.
                      Chippewa Falls, WI 54729
 
-     <paragraph><sentence>Multistage interconnection networks (MINs) form the backbone
+<paragraph>     <sentence>Multistage interconnection networks (MINs) form the backbone
      of  traditional vector supercomputers</sentence>.  <sentence>First, an historical
      perspective of MINs in vector supercomputers is given</sentence>.  <sentence>This
      is  followed  by  the  description  of  an on-going study of

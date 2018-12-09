@@ -31,7 +31,8 @@ created, in support of parallelism</sentence>.  <sentence>The talk will discuss 
 technological trade-offs between ``commodization'' and customization, and
 speculate on the likely evolution of systems that attend to preserve
 standard uniprocessor interfaces, while supporting efficient scalable
-parallel computing</sentence>.</paragraph>  
+parallel computing</sentence>.  </paragraph>
 
- <paragraph><sentence>NOTE: If you want to meet with Marc Snir, send a message to Barbara
- Grandillo (bag@cs)</sentence>.</paragraph>
+<paragraph> <sentence>NOTE: If you want to meet with Marc Snir, send a message to Barbara
+ Grandillo (bag@cs)</sentence>.
+</paragraph>

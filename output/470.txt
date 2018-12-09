@@ -10,7 +10,7 @@ Abstract:
 *************************************************************************
 			  Logic Colloquium
 		        Thursday February 6
-			   <stime>3:30</stime> <location>Wean 5409</location>
+			   <stime>3:30</stime> Wean 5409
 *************************************************************************
        	   On The Mathematics of Non-monotonic Reasoning
 			  Menachem Magidor
@@ -30,10 +30,11 @@ model theory of the logic</sentence>. <sentence>We are especially interested in 
 rule called "Rational Monotony" and the connection between it and 
 probabilistic models</sentence>.</paragraph>
 
- <paragraph><sentence>NOTE: Prof. Magidor will also give a Math Department Colloquium on Friday
+<paragraph> <sentence>NOTE: Prof. Magidor will also give a Math Department Colloquium on Friday
  February 7</sentence>.</paragraph>
 
 -------------------------
  Host:  Stephen D. Brookes
 
-<paragraph><sentence>Appointments can be made through Marian D'Amico, marian@cs, x7665</sentence>.</paragraph>
+<paragraph><sentence>Appointments can be made through Marian D'Amico, marian@cs, x7665</sentence>.
+</paragraph>

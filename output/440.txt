@@ -7,7 +7,7 @@ Topic:    Parallel Computing at the Swiss Scientific
           Computing Center (CSCS)
 Dates:    21-Apr-94
 Time:     <stime>2:30 PM</stime>
-Place:    <location><location>Wean Hall 4623</location> (NOTE SPECIAL PLACE)</location>
+Place:    <location>Wean Hall 4623</location> (NOTE SPECIAL PLACE)
 Host:     Thomas Gross
 PostedBy: bag+ on 20-Apr-94 at 15:46 from BARBARA.ADM.CS.CMU.EDU (Barbara Grandillo)
 Abstract: 
@@ -19,14 +19,14 @@ Abstract:
                    Director of Research and Development
                    Swiss Scientific Computing Center
 
-         <paragraph><sentence>Topic:    Parallel Computing at the Swiss Scientific
+<paragraph>         <sentence>Topic:    Parallel Computing at the Swiss Scientific
                    Computing Center (CSCS</sentence>)</paragraph>
 
          Date:     Thursday, April 21, 1994 (NOTE SPECIAL DATE)
 
          Time:     <stime>2:30 pm</stime> (NOTE SPECIAL TIME)
 
-         Place:    <location><location>Wean Hall 4623</location> (NOTE SPECIAL PLACE)</location>
+         Place:    <location>Wean Hall 4623</location> (NOTE SPECIAL PLACE)
 
 <paragraph><sentence>We report about projects and activities in parallel computing at CSCS'
 Section of Research and Development (SeRD)</sentence>. <sentence>The {\em Joint CSCS-ETH/NEC

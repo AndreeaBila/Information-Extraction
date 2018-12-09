@@ -34,4 +34,5 @@ video, and the problem of object recognition using 2-D aspect models</sentence>.
 <paragraph><sentence>------------------------------------------------------------------------------
 If you would like to make an appointment with Alex please feel free to contact
 Patty Mackiewicz via email (patty@cs)</sentence>.  
-------------------------------------------------------------------------------</paragraph>
+------------------------------------------------------------------------------
+</paragraph>

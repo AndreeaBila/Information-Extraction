@@ -12,7 +12,7 @@ Abstract:
 
                        RI SEMINAR
 
- <paragraph><sentence>WHEN:     Friday, February 3, 1995; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+<paragraph> <sentence>WHEN:     Friday, February 3, 1995; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
           Refreshments will be served starting at 3:15 pm</sentence>.</paragraph>
 
  WHERE:    <location>ADAMSON WING Auditorium in Baker Hall</location>
@@ -29,35 +29,36 @@ concepts for 3D-sterescopic television (and computer workstations), many
 of which have been around, unimplementable, for a long time</sentence>.  In this
 talk I will:</paragraph>
 
-  <paragraph><sentence>-- review the fundamentals of binocular 3D-stereoscopic visio</sentence>n</paragraph>
+<paragraph>  <sentence>-- review the fundamentals of binocular 3D-stereoscopic visio</sentence>n</paragraph>
 
-  <paragraph><sentence>-- review historical approaches to 3D-image and 3D-stream pair displa</sentence>y</paragraph>
+<paragraph>  <sentence>-- review historical approaches to 3D-image and 3D-stream pair displa</sentence>y</paragraph>
 
-  <paragraph><sentence>-- narrow the discussion to approaches that use a single more-or-less flat
+<paragraph>  <sentence>-- narrow the discussion to approaches that use a single more-or-less flat
      screen (like a TV or workstation monitor</sentence>)</paragraph>
 
-  <paragraph><sentence>-- describe my group's research in several areas</sentence>:</paragraph>
+<paragraph>  <sentence>-- describe my group's research in several areas</sentence>:</paragraph>
 
      ** the physics of re-creating naked-eye and augmented-eye reality
 
-     <paragraph><sentence>** the state-of-the-art in video: delivering the full spatial and
+<paragraph>     <sentence>** the state-of-the-art in video: delivering the full spatial and
         temporal resolution of an NTSC stream per ey</sentence>e</paragraph>
 
-     <paragraph><sentence>** three increasingly sophisticated approaches to presenting video
+<paragraph>     <sentence>** three increasingly sophisticated approaches to presenting video
         and/or computer graphics on a workstatio</sentence>n</paragraph>
 
-        <paragraph><sentence>~~ a well known special purpose hardware based full-screen,
+<paragraph>        <sentence>~~ a well known special purpose hardware based full-screen,
            half spatial resolution approac</sentence>h</paragraph>
 
-        <paragraph><sentence>~~ our adaptation of this approach to an X-Windows environment,
+<paragraph>        <sentence>~~ our adaptation of this approach to an X-Windows environment,
            still full scree</sentence>n</paragraph>
 
-        <paragraph><sentence>~~ our new "Stereo-in-Windows" approach, which allows arbitrary
+<paragraph>        <sentence>~~ our new "Stereo-in-Windows" approach, which allows arbitrary
            mixes of stereo and flat XWindows on one screen at one time
            at full resolutio</sentence>n</paragraph>
 
-     <paragraph><sentence>** progress in the (I will show you: related) areas of image compression,
+<paragraph>     <sentence>** progress in the (I will show you: related) areas of image compression,
         intermediate view interpolation, and user-adjustable stereopsi</sentence>s</paragraph>
 
-  <paragraph><sentence>-- demonstrate as much of this as it is practical to set up in the Adamson
-     Wing auditorium [TBD]</sentence>.</paragraph>
+<paragraph>  <sentence>-- demonstrate as much of this as it is practical to set up in the Adamson
+     Wing auditorium [TBD]</sentence>.
+</paragraph>

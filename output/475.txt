@@ -13,9 +13,9 @@ Abstract:
                                 James H. Morris
                          Professor of Computer Science
 
-                           <paragraph><sentence>Wednesday, April 8, 1992
+<paragraph>                           <sentence>Wednesday, April 8, 1992
                                   Time 3:30pm
-                                <location>Wean Hall 7500</location>
+                                Wean Hall 7500
    It  has been five years since I stopped working on Andrew, so the freedom
    of information act -- along with the passing from power of several people
    --  allows  me  to  tell  some  candid stories about it</sentence>. <sentence>In 1983, the ITC
@@ -27,27 +27,28 @@ Abstract:
    it   was</sentence>.   <sentence>I   often  meet  people  who  still  have  some  of  my  1982
    misperceptions</sentence>.</paragraph>
 
-   <paragraph><sentence>I will reconsider some of the early,  crucial  decisions  of  the  Andrew
+<paragraph>   <sentence>I will reconsider some of the early,  crucial  decisions  of  the  Andrew
    project  related  to  wiring,  protocols, workstations, file systems, and
    software</sentence>. <sentence>I'll assess the impact of Andrew on education and discuss  what
    IBM  and  CMU  ultimately  got  out  of  it</sentence>.  <sentence>I will argue that UNIX, the
    Macintosh, and Electronic Mail will not survive to the next century</sentence>.</paragraph>
 
-   <paragraph><sentence>Finally, I'll offer eight opinions that computer scientists  who  venture
+<paragraph>   <sentence>Finally, I'll offer eight opinions that computer scientists  who  venture
    into the real world should consider</sentence>:</paragraph>
 
       1. Slowness Kills.
 
-      <paragraph>2. <sentence>Big, integrated systems lose</sentence>.</paragraph>
+<paragraph>      2. <sentence>Big, integrated systems lose</sentence>.</paragraph>
 
       3. Virtual << Real.
 
-      <paragraph>4. <sentence>Programmer productivity is not so important</sentence>.</paragraph>
+<paragraph>      4. <sentence>Programmer productivity is not so important</sentence>.</paragraph>
 
-      <paragraph>5. <sentence>Technology transfer rarely works</sentence>.</paragraph>
+<paragraph>      5. <sentence>Technology transfer rarely works</sentence>.</paragraph>
 
-      <paragraph>6. <sentence>Engineers don't buy; they log roll</sentence>.</paragraph>
+<paragraph>      6. <sentence>Engineers don't buy; they log roll</sentence>.</paragraph>
 
-      <paragraph>7. <sentence>Industrial funding is difficult</sentence>.</paragraph>
+<paragraph>      7. <sentence>Industrial funding is difficult</sentence>.</paragraph>
 
-      <paragraph>8. <sentence>2nd System < 1st System < 3rd System</sentence>.</paragraph>
+<paragraph>      8. <sentence>2nd System < 1st System < 3rd System</sentence>.
+</paragraph>

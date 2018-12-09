@@ -1,4 +1,4 @@
-<1.02.10.91.11.44.49.maa+<location>@ISL</location>1.RI.CMU.EDU (Michelle Agie).0>
+<1.02.10.91.11.44.49.maa+@ISL1.RI.CMU.EDU (Michelle Agie).0>
 Type:     cmu.cs.robotics
 Who:      <speaker>Milind Tambe</speaker>
 Topic:    CIMDS SEMINAR
@@ -29,20 +29,21 @@ utility issue in machine learning, parallel implementations and modeling  human
 cognition</sentence>.    <sentence>The goal of this work is to eliminate match combinatorics without
 sacrificing production system functionality</sentence>.</paragraph>
 
-  <paragraph><sentence>Combinatorics arise in production match due to the ambiguity about which data
+<paragraph>  <sentence>Combinatorics arise in production match due to the ambiguity about which data
 items (or working memory elements) can actually match a production's condition</sentence>.
 <sentence>In a production with multiple conditions, a cascading effect of such  ambiguity
 may  lead  to  an  exponential  match effort</sentence>. <sentence>We have investigated a variety of
 approaches to eliminate match combinatorics, and have focused on the  following
 two that appear quite promising</sentence>:</paragraph>
 
-   <paragraph><sentence>- The  unique-attribute  approach:  This approach restricts the working
+<paragraph>   <sentence>- The  unique-attribute  approach:  This approach restricts the working
      memory representation and completely eliminates the ambiguity</sentence>.</paragraph>
 
-   <paragraph><sentence>- The tokenless-match approach: This approach changes the match process
+<paragraph>   <sentence>- The tokenless-match approach: This approach changes the match process
      so  as to allow some local ambiguity, but avoids the cascading effect
      that leads to combinatorics</sentence>.</paragraph>
 
-  <paragraph><sentence>I  will  present  detailed  theoretical  and  experimental  analyses  of  the
+<paragraph>  <sentence>I  will  present  detailed  theoretical  and  experimental  analyses  of  the
 performance    improvements    possible   with   these   approaches   and   the
-representational tradeoffs involved in them</sentence>.</paragraph>
+representational tradeoffs involved in them</sentence>.
+</paragraph>

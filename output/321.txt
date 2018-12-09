@@ -6,7 +6,7 @@ Topic:    ON CHOOSING THE BEST FEEDBACK CONTROL STRATEGY FOR
           A ROBOTIC MANIPULATOR
 Dates:    1-Mar-91
 Time:     <stime>3:30 PM</stime>
-Place:    Baker Hall, <location>Adamson Wing</location>
+Place:    <location>Baker Hall, Adamson Wing</location>
 Host:     Michael Erdmann, x7883
 PostedBy: L.R.Adkins-Shellie on 1-Mar-91 at 09:23 from B.GP.CS.CMU.EDU
 Abstract: 
@@ -18,7 +18,7 @@ Abstract:
  	  A ROBOTIC MANIPULATOR
  Date: 	  March 1, 1991
  Time:     3:30 p.m. until 4:30 p.m.
- Location: Baker Hall, <location>Adamson Wing</location>
+ Location: <location>Baker Hall, Adamson Wing</location>
  Host:     Michael Erdmann, x7883
 
 <paragraph><sentence>A wide variety of control strategies have been proposed, both in the 
@@ -38,4 +38,5 @@ actuator constraints</sentence>.</paragraph>
 Refreshments will be served from 3:15-3:30</sentence>.  
 Discussion and questions:  4:30-5:00.
 <sentence>Everyone in the CMU community is invited to attend</sentence>.
-----------</paragraph>
+----------
+</paragraph>

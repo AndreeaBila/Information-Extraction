@@ -41,4 +41,5 @@ Clark at x8-6737</sentence>.</paragraph>
 Seminar speakers</sentence>.</paragraph>
 
 <paragraph><sentence>Please contact cmu-hci-request@andrew.cmu.edu to receive
-announcements of human-computer interaction talks and news</sentence>.</paragraph> 
+announcements of human-computer interaction talks and news</sentence>. 
+</paragraph>
