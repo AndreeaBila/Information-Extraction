@@ -1,6 +1,7 @@
 from os import listdir
 from os.path import isfile, join
 from utilities import emptyOutputFolder
+from wikification import wikification
 import nltk
 import re
 
@@ -282,6 +283,10 @@ def printTaggedFiles():
     return
 
 
+def ontoloy(fileName):
+   return "not implemented"
+
+
 if __name__ == '__main__':
     # Read the file contents from the 'untagged' folder
     print('Tagging files...')
@@ -306,5 +311,5 @@ if __name__ == '__main__':
     printTaggedFiles()
     print('Finished tagging files')
 
-    for topic in types:
-        print(topic)
+    print(topics[0])
+    wikification(topics[0])

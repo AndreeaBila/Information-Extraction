@@ -118,6 +118,7 @@ def evaluate():
             mapTagEval[tag]['falsePositives'] = mapTagEval[tag]['falsePositives'] + falsePositives
             mapTagEval[tag]['falseNegatives'] = mapTagEval[tag]['falseNegatives'] + falseNegatives
 
+
     accuracy = computeAccuracy(totalTruePositives, totalTrueNegatives, totalFalsePositives, totalFalseNegatives)
     precision = computePrecision(totalTruePositives, totalFalsePositives)
     recall = computeRecall(totalTruePositives, totalFalseNegatives)
