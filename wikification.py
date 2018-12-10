@@ -41,7 +41,8 @@ def wikification(query):
   if url_data is None :
     print( "Failed to get data ... Can not proceed." )
     # Graceful exit.
-    sys.exit()
+    # sys.exit()
+    return
 
   # http.client socket returns bytes - we convert this to utf-8
   url_data = url_data.decode( "utf-8" )
@@ -60,4 +61,4 @@ def wikification(query):
   url_titles = [ urllib.parse.quote_plus(i) for i in titles ]
   # pprint( url_titles )
 
-  return titles + url_titles
+  return titles

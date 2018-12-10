@@ -1,0 +1,265 @@
+SCIENCE
+Computer Science
+Artificial Intelligence
+----------------------- 
+303.txt : The D* Algorithm for Real-Time Path Replanning 
+308.txt : SCS AI Seminar Next Tuesday 
+311.txt : Exploring the autonomous learning problem with mathematical programming 
+314.txt : Learning to Understand Information on the Internet. 
+317.txt : TODAY *ROOM CHANGE*  Anita Flynn's Talk (Faculty Candidate): Smith 125. 
+323.txt : AI Seminar Next Tuesday 
+324.txt : Medical Robotics: A Step Toward Computer Integrated Medicine 
+325.txt : Dexterity and Intelligence in Robotic Systems 
+327.txt : AI Seminar This Friday 
+331.txt : CIMDS SEMINAR 
+340.txt : VISION Seminar TODAY 
+345.txt : Learning Control for Improved Performance in 
+346.txt : Neural net models of lightness and color constancy. 
+360.txt : SOLVING SCHEDULING PROBLEMS WITH THE HELP OF MULTI-AGENT SYSTEMS 
+362.txt : Seminar 
+365.txt : MULTIPLE-MODEL MACHINE VISION 
+407.txt : Healthy Office Seminar 
+410.txt : Special AI Seminar 
+416.txt : Best-First Minimax Search 
+417.txt : The EPAM Model of Experts' Discrimination and Learning: 
+420.txt : Actualized Intelligence: Planning and Acting in Dynamic Environments 
+422.txt : CS/PSC Seminar 12/3 4:00pm Kai Li WeH 5409 
+435.txt : Improved Statistical Language Models from Syntactic Parsing 
+439.txt : NASA's Artificial Intelligence Program 
+441.txt : A FREE OBJECT TECHNOLOGY TELECAST/SEMINAR 
+450.txt : Special AI Seminar 
+460.txt : Logical Interpretations and Computational Simulations 
+472.txt : Distinguished Lecture--Today 
+
+Human Computer Interaction
+-------------------------- 
+316.txt : AARON: In Living Color 
+432.txt : HCI Seminar Feb 16 
+436.txt : HCI Seminar March 23 
+437.txt : March 23 HCI Seminar 
+461.txt : HCI seminar, Raj Reddy, 3:30 Friday 5-5, Wean 5409 
+483.txt : Interesting HCI seminar... 
+
+Security
+-------- 
+447.txt : 9/23 CS/PSC Seminar 
+
+Robotics
+-------- 
+305.txt : Dante II and Beyond: Exploration Robots 
+307.txt : An Autonomous Walking Robot for Planetary Exploration 
+309.txt : An Autonomous Walking Robot for Planetary Exploration 
+312.txt : Robot Skill Learning Through Intelligent Experimentation 
+313.txt : Robots for the Assistance to the Disabled and the Elderly: 
+315.txt : Autonomous Interactive Artwork 
+318.txt : Upcoming Robotics Seminars: Apr 14 none; Apr 21 Shree Nayar. 
+319.txt : ON CHOOSING THE BEST FEEDBACK CONTROL STRATEGY FOR 
+321.txt : ON CHOOSING THE BEST FEEDBACK CONTROL STRATEGY FOR 
+332.txt : DONATH TALK MOVED 
+333.txt : Robotics Seminar, Prof. John Canny, Friday Oct 11, 3:30, Adamson Wing, Baker Hall 
+334.txt : Special Robotics Seminar 
+335.txt : RI Symposium 
+336.txt : REMINDER - Li Talk Today 
+337.txt : The Programmable Automated Welding System 
+338.txt : Robotics Seminar, Prof. Jean-Claude Latombe, Friday Oct 25, 3:45, Doherty Hall 1112 
+341.txt : Robotics Seminar, Jeff Kerr, Friday Nov 22, 3:30, Adamson Wing, Baker Hall 
+342.txt : Robotics Seminar (Driscoll) 
+343.txt : There is more to life than the FFT 
+348.txt : Reminder: Manocha Talk today 
+349.txt : Robotics/Planning Talk: Dan Koditschek 
+351.txt : Antarctic Exploration Robotics 
+352.txt : Antarctic Exploration Robotics 
+357.txt : Space Robotics Activities at the Johnson Space Center 
+359.txt : FINE MOTION PLANNING FOR DEXTEROUS MANIPULATION 
+379.txt : Antarctic Exploration Robotics 
+381.txt : Research in Teleoperated and Cooperative Control 
+384.txt : Space Robotics Activities at the Johnson Space Center 
+388.txt : Autonomous Walking for the Ambler Planetary 
+391.txt : Space Robotics Seminar 
+406.txt : MSE End-of-Semester Presentation 
+421.txt : MSE End-of-Semester Presentation 
+427.txt : Systems Design of An Off Road Autonomous Navigator 
+
+Computer Vision
+--------------- 
+304.txt : Using Two-Dimensional Image Matching to Interpret the Three-Dimensional World 
+310.txt : 3D-TV (and Workstations) 
+347.txt : Computer vision and geometric measurement 
+353.txt : Techniques for Task-Directed Sensor Data 
+355.txt : Radargrammetric Processing of Magellan Images of the Planet Venus 
+358.txt : FILTERS FOR IMAGE RESAMPLING 
+375.txt : Elemental measurements in vision. 
+376.txt : Elemental measurements in vision. 
+
+Computer Graphics
+----------------- 
+350.txt : RI SEMINAR CORRECTION 
+354.txt : Graphics Seminar, Thu Nov 12, Kinematics 
+383.txt : GRAPHICS SEMINAR: Nov. 11, "Computer Graphics Snacks" 
+394.txt : A Revision-Theoretic Analysis of the Arithmetical Hierarchy 
+398.txt : Program Dependence Graph and Static Single Assignment forms 
+399.txt : Re: Lecture by Rajiv Gupta, Univ of Pittsburgh, Feb 12, 9 AM 
+467.txt : Algorithms for Square Roots of Graphs 
+468.txt : Algorithms for Square Roots of Graphs 
+
+Networks
+-------- 
+428.txt : PSC/CS Seminar 11/1 4:00 WeH 5403: J. Smith of Cray Research 
+473.txt : Networks class/DQDB talk 
+
+Databases
+--------- 
+404.txt : PSC/CS Seminar 3/12 4:00 WeH 5202 S. Frank of KSR Inc. 
+418.txt : Automated Casual Inference: Recent Work and Open Problems 
+449.txt : CS/PSC/PS seminar Steve McGeady on 10/17 
+
+Parallel Computing
+------------------ 
+374.txt : Iterative Design of Efficient Parallel Programs 
+414.txt : PSC/CS Seminar 10/8 4:00 pm WeH 5409: Marc Snir of IBM 
+440.txt : Parallel Computing at the Swiss Scientific 
+
+Algorithms
+---------- 
+344.txt : Theory Seminar, Feb. 14, 1992 
+364.txt : Talk on object segmentation techniques and constraint based feature indexing 
+409.txt : Short talk on Data Breakpoints 
+471.txt : PSC/CS Seminar: 2/28 4:00 @ SEI 
+478.txt : The Temporal Logic of Actions 
+
+Programming Languages
+--------------------- 
+431.txt : High Performance Fortran 
+
+Automata
+-------- 
+419.txt : "Teaching Automata Theory by Computer" 
+
+Technology
+---------- 
+302.txt : Antal Bejczy Lecture Nov. 11 
+320.txt : Control and Manufacturing Research and Education Programs 
+373.txt : Green Engineering: Rethinking Engineering Design And 
+397.txt : Change!!: Wed WWC PictureTel Seminar 
+415.txt : CS/PSC Seminar 10/22 @ 4:00 p.m WeH 5409 A. Nowatzyk of Sun 
+426.txt : HCI Seminar 1/26 
+438.txt : Mach Internals Seminar: Physical Memory Management 
+442.txt : Computer Systems Seminar 9/16 
+443.txt : Calendar joint CS-PSC seminar series 
+455.txt : CS Seminar 12/2: Rick Stevens 
+456.txt : APPLE COMPUTER TALK 
+480.txt : Undergrad Research Presentations 
+
+
+Physics
+Thermodynamics
+-------------- 
+
+Quantum Mechanics
+----------------- 
+
+Optical Physics
+--------------- 
+
+
+Chemistry
+Organic Chemistry
+----------------- 
+
+Inorganic Chemistry
+------------------- 
+
+Biochemistry
+------------ 
+446.txt : Calendar joint CS-PSC seminar series 
+
+
+Engineering
+Mechanical Engineering
+---------------------- 
+322.txt : Programming Complex Mechanical Systems with Applications 
+
+Electrical Engineering
+---------------------- 
+
+Industrial Engineering
+---------------------- 
+
+Environmental Engineering
+------------------------- 
+
+Transport
+--------- 
+301.txt : AN ASYNCHRONOUS TEAM SOLUTION TO SCHEDULING STEEL PLANTS 
+429.txt : Planning: Recent Results 
+
+
+Mathematics
+Algebra
+------- 
+405.txt : "Testing Preorders for Reactive Real-Time Processes" 
+
+Geometry
+-------- 
+361.txt : BEZIER-MINKOWSKI METAMORPHOSIS & INTERACTIVE GEOMETRIC MODELING 
+403.txt : March 17 Distinguished Lecture 
+454.txt : POP TALK 
+
+Calculus
+-------- 
+430.txt : Basic Paramodulation and Basic Strict Superposition 
+
+Combinatorics
+------------- 
+
+Math
+---- 
+453.txt : "Mathematical Theory of Quasicrystals" 
+457.txt : THEORY SEMINAR 
+464.txt : Kripke Models for Linear Logic 
+
+Arithmetic
+---------- 
+408.txt : PSC Seminar today @ 4:00: Tera Comp. 
+
+Mathematical Theory
+------------------- 
+
+
+Economy
+Taxes
+----- 
+401.txt : Tax Seminar for Non-Residents 
+476.txt : David Wile to give talk, Thursday April 16 
+
+Finance
+------- 
+368.txt : Financial Aid Seminar this Thursday 
+
+
+HUMANITIES
+Literature
+
+History
+
+Music
+
+Public speaking
+Speech
+------ 
+423.txt : Speech Seminar 
+
+
+Teaching
+Teaching
+-------- 
+366.txt : TA seminars, UTC Grad support F94 
+367.txt : S95 Graduate Seminar Schedule 
+369.txt : Univ. Teaching Ctr. summer seminars 
+370.txt : Univ. Teaching Ctr. summer seminars 
+371.txt : Univ. Teaching Ctr. summer seminars 
+411.txt : reminder: grad student teaching seminars 
+412.txt : reminder: grad student teaching seminars 
+452.txt : Redesigning the Classroom: Teaching and Technology 
+
+

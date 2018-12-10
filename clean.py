@@ -20,17 +20,17 @@ def readContents():
     myPath = "untagged/"
     onlyfiles = [f for f in listdir(myPath) if isfile(join(myPath, f))]
 
-    # Read each file
+    # read each file
     for fileName in onlyfiles:
-        # Construct file name and read the file
+        # construct file name and read the file
         filePath = myPath + fileName
         file = open(filePath, "r")
         fileContent = file.read()
 
-        # Map file content by file name
+        # map file content by file name
         mapFiles[fileName] = fileContent
 
-        # Headers
+        # headers
         temporary = fileContent.split("Abstract:")
         mapHeaders[fileName] = temporary[0];
         if "Abstract" in fileContent:
@@ -48,7 +48,6 @@ def readContents():
 
         tree = buildTree()
 
-    # extractTrainingData()
 
 
 def extractTrainingData():
@@ -57,13 +56,12 @@ def extractTrainingData():
 
     # Read each file
     for fileName in onlyfiles:
-        # Construct file name and read the file
+
         filePath = myPath + fileName
         fileContent = open(filePath, "r").read()
         file = '\n'.join(fileContent.split('\n')[1:])
 
 
-        # file = files["1.txt"]
         rex = re.compile(r'<.*?>(.*?)</.*?>', re.S | re.M)
 
         tags = rex.finditer(file)
@@ -75,10 +73,11 @@ def extractTrainingData():
                 text = text.replace("\n", " ")
                 temp = label.match(x.group())
                 tag = temp.group(0)[1:-1]
-                # if tag == 'speaker':
-                #     speakers.add(text)
+
                 if tag == 'speaker':
                     speakers.add(text)
+                elif tag == 'location':
+                        locations.add(text)
 
 
 
@@ -92,23 +91,19 @@ def tag(index, text, fileName, tagName):
     mapFiles[fileName] = content
 
 
-def tagParagraphs(fileName):
-    paragraphs = mapContent[fileName].split("\n\n")
+def hasVerb(text):
+    words = nltk.word_tokenize(text)
 
-    for paragraph in paragraphs:
-        # Tag paragraph if it is true
-        if isSentence(paragraph):
-            paragraph = paragraph
-            position = mapFiles[fileName].find(paragraph)
-            tag(position, paragraph, fileName, "paragraph")
-            tagSentences(paragraph, fileName)
-        # else:
-        #     print(paragraph)
-        #     print('IS NOT PARAGRAPH')
-    # End method for paragraph tagging
-    return
+    for word, part in nltk.pos_tag(words):
 
-def isSentence(text):#
+        if 'V' in part:
+            return True
+            break
+
+    return False
+
+
+def isSentence(text):
     if text.strip() != "":
         if text.strip()[0] == '-' or text.strip()[0] == "*" or text.strip()[0] == "~":
             return False
@@ -120,24 +115,11 @@ def isSentence(text):#
         return True
 
 
-def hasVerb(text):
-    words = nltk.word_tokenize(text)
-
-    # If there is no verb, it's not a paragraph
-    for word, part in nltk.pos_tag(words):
-
-        if 'V' in part:
-            return True
-            break
-
-    return False
-
-
 def tagSentences(paragraph,fileName):
     sentences = nltk.sent_tokenize(paragraph)
 
     for sentence in sentences:
-        if isSentence(sentence):
+        if hasVerb(sentence):
             sentence = sentence.strip()
             position = mapFiles[fileName].find(sentence)
             tag(position, sentence[:-1], fileName, "sentence")
@@ -145,37 +127,23 @@ def tagSentences(paragraph,fileName):
     return
 
 
-def getTopic(fileName):
-    # Tag topic from headers
-    headerHint = "Topic:(.*)"
-    temp = re.search(headerHint, mapHeaders[fileName])
-    # If header topic is not found
-    if temp is None:
-        return
+def tagParagraphs(fileName):
+    paragraphs = mapContent[fileName].split("\n\n")
 
-    headerTopic = temp.group(1).strip()
-    mapTags[fileName]['topic'] = headerTopic
-    topics.append(headerTopic)
+    for paragraph in paragraphs:
+        if isSentence(paragraph):
+            paragraph = paragraph
+            position = mapFiles[fileName].find(paragraph)
+            tag(position, paragraph, fileName, "paragraph")
+            tagSentences(paragraph, fileName)
+
     return
 
-def getType(fileName):
-    # Tag topic from headers
-    headerHint = "Type:(.*)"
-    temp = re.search(headerHint, mapHeaders[fileName])
-    # If header topic is not found
-    if temp is None:
-        return
-
-    headerType = temp.group(1).strip()
-    mapTags[fileName]['type'] = headerType
-    types.append(headerType)
-    return
 
 def findHeaderLocation(fileName):
-    # Tag start and end time from headers
     headerHint = "Place:(.*)"
     temp = re.search(headerHint, mapHeaders[fileName])
-    # If header topic is not found
+
     if temp is None:
         return
 
@@ -189,7 +157,6 @@ def tagLocation(fileName):
 
     for location in locations:
         counter = 0
-        # print(fileName, location)
         for loc in re.finditer(location, mapFiles[fileName]):
             index = loc.start() + counter * tagLength
             loc = loc.group().strip()
@@ -200,11 +167,9 @@ def tagLocation(fileName):
 
 
 def findHeaderSpeaker(fileName):
-    # Tag start and end time from headers
     headerHint = "Who:(.*)"
     temp = re.search(headerHint, mapHeaders[fileName])
 
-    # If header times are not found
     if temp is None:
         return
 
@@ -232,12 +197,9 @@ def tagSpeaker(fileName):
 
 
 def tagTime(fileName):
-    # Tag start and end time from headers
     headerHint = "Time:(.*)"
-    # temp = re.search(headerHint, '\n'.join(mapHeaders[fileName].split('\n')[1:]))
     temp = re.search(headerHint, mapHeaders[fileName])
 
-    # If header times are not found
     if temp is None:
         return
 
@@ -256,17 +218,10 @@ def tagTime(fileName):
     # Find times in content
     time_format = re.compile(r"\b((0?[1-9]|1[012])([:.][0-5][0-9])?(\s?[apAP][Mm])|([01]?[0-9]|2[0-3])([:.][0-5][0-9]))\b")
 
-    # Check how many positions have advanced
     counter = 0
     tagLength = len("<stime></stime>")
 
-    # Add tags at start and end of time
-    # ignore = "PostedBy:(.*)"
-    # ignoreLine = re.search(ignore, mapFiles[fileName]).group().strip()
-    # content = mapFiles[fileName].replace(ignoreLine, '')
-    # contentTimes = time_format.finditer(content)
     contentTimes = time_format.finditer(mapFiles[fileName])
-    # contentTimes = time_format.finditer('\n'.join(mapFiles[fileName].split('\n')[1:]))
 
 
     for time in contentTimes:
@@ -278,10 +233,6 @@ def tagTime(fileName):
         elif word.lower() == mapTags[fileName]['etime'].lower():
             tag(index, word, fileName, 'etime')
             counter = counter + 1
-        # else:
-        #     mapTags[fileName]['stime'] = word
-        #     tag(index, word, fileName, 'stime')
-        #     counter = counter + 1
 
     return
 
@@ -299,7 +250,7 @@ def printTaggedFiles():
 
 
 def buildTree():
-    subjects = ["Science", "Art"]
+    subjects = ["Science", "Humanities"]
 
     for subject in subjects:
         tree[subject] = {}
@@ -307,102 +258,153 @@ def buildTree():
     tree['Science'] = {"Computer Science": {}, "Physics": {}, "Chemistry": {}}
     tree['Humanities'] = {"Literature": {}, "History": {}, "Music": {}}
 
-    tree['Science']['Computer Science'] = ["Artificial Intelligence", "Human Computer Interaction", "HCI", 'AI ',
-                                           "Security", "Robotics", 'networks', 'programming language', 'Algorithm',
-                                           'programming', 'code', 'software', 'robot', 'robots', 'program', 'cs',
-                                           'computer', 'digital']
-    tree['Science']['Physics'] = ["Thermodynamics", "Quantum mechanics", "Optical physics"]
-    tree['Science']['Chemistry'] = ["Organic Chemistry", "Inorganic Chemistry", "Biochemistry"]
-    tree['Science']['Engineering'] = ["Mechanical Engineering", "Electrical Engineering", "Environmental Engineering"]
-    tree['Science']['Mathematics'] = ["Algebra", "Geometry", "Calculus", "Combinatorics", 'math', 'mathematical theory']#
-    tree['Science']['Economy'] = ["tax", "taxes"]
-    # tree['Humanities']['Literature'] = ["Contemporary Literature", "Renaissance Literature", "Creative Writing"]
-    tree['Humanities']['History'] = ["History of religion", "Social history", "World history"]
-    tree['Humanities']['Public speaking'] = ["speech"]
-    tree['Humanities']['Musicology'] = ["Historical Musicology", "Ethnomusicology", "Music Theory"]
+
+    tree['Science']['Computer Science'] = {"artificial intelligence": {'deep learning', 'machine learning',
+                                            'neural network', 'neural net', 'minimax', 'alpha-beta pruning', 'ai '},
+                                           "human computer interaction": {'hci'}, "security": {},
+                                           "robotics": {'robot', 'robotics', 'robotic'}, 'computer vision':
+                                            {'vision', 'data visualization', 'image conversion'}, 'computer graphics':
+                                            {'graph', 'graphics'}, 'networks': {}, 'databases': {'sql', 'database'},
+                                           'parallel computing': {}, 'algorithms': {}, 'programming languages': {},
+                                           'automata': {'finite state machines'}, 'technology': {}}
+    tree['Science']['Physics'] = {"thermodynamics": {}, "quantum mechanics": {}, "optical physics": {}}
+    tree['Science']['Chemistry'] = {"organic Chemistry": {}, "inorganic chemistry": {}, "biochemistry": {'biomolecule'}}
+    tree['Science']['Engineering'] = {"mechanical engineering": {}, "electrical engineering": {},
+                                      "industrial engineering": {}, "environmental engineering": {}, 'transport': {}}
+    tree['Science']['Mathematics'] = {"algebra": {}, "geometry": {'geometric'}, "calculus": {}, "combinatorics": {},
+                                      'math': {}, 'arithmetic': {}, 'mathematical theory': {}}
+    tree['Science']['Economy'] = {"taxes": {'tax'}, 'finance': {'financial'}}
+
+    tree['Humanities']['Public speaking'] = {"speech": {}}
+    tree['Humanities']['Teaching'] = {"teaching": {}}
 
     return tree
 
 
-def ontology(fileName):
-    # if fileName not in classification:
-    #     for subjectType in tree:
-    #         for domain in tree[subjectType]:
-    #             for keyword in tree[subjectType][domain]:
-    #                 if 'topic' in mapTags[fileName]:
-    #                     if keyword.lower() or domain.lower() in mapTags[fileName]['topic'].lower():
-    #                         classification[fileName] = domain + ", " + subjectType
-    #                     elif domain.lower() in mapTags[fileName]['topic'].lower():
-    #                         classification[fileName] = domain + ", " + subjectType
+def getTopic(fileName):
+    headerHint = "Topic:(.*)"
+    temp = re.search(headerHint, mapHeaders[fileName])
 
+    if temp is None:
+        return
 
-    # if fileName not in classification:
-    #     for subjectType in tree:
-    #         for domain in tree[subjectType]:
-    #             for keyword in tree[subjectType][domain]:
-    #                 if keyword or domain in mapContent[fileName]:
-    #                     classification[fileName] = domain + ", " + subjectType
-    #                 elif domain in mapContent[fileName]:
-    #                     classification[fileName] = domain + ", " + subjectType
-
-    if fileName not in classification:
-        for subjectType in tree:
-            for domain in tree[subjectType]:
-                for keyword in tree[subjectType][domain]:
-                    if 'topic' in mapTags[fileName]:
-                        if keyword.lower() in mapTags[fileName]['topic'].lower():
-                            classification[fileName] = domain + ", " + subjectType + " (" + keyword + ")"
-                            return
-                        elif domain.lower() in mapTags[fileName]['topic'].lower():
-                            classification[fileName] = domain + ", " + subjectType + " (" + keyword + ")"
-                            return
-
-    if fileName not in classification:
-        for subjectType in tree:
-            for domain in tree[subjectType]:
-                for keyword in tree[subjectType][domain]:
-                    if keyword.lower() in mapContent[fileName].lower():
-                        classification[fileName] = domain + ", " + subjectType + " (" + keyword + ")"
-                        return
-                    elif domain.lower() in mapContent[fileName].lower():
-                        classification[fileName] = domain + ", " + subjectType + " (" + keyword + ")"
-                        return
-
-    # if fileName not in classification:
-    #     for sub1 in tree:
-    #         for sub2 in tree[sub1]:
-    #             for sub3 in tree[sub1][sub2]:
-    #                 if 'topic' in mapTags[fileName]:
-    #                     if sub3 in wikification(mapTags[fileName]['topic']):
-    #                         classification[fileName] = sub3 + ", " + sub2 + ", " + sub1
-    #                     elif sub2 in wikification(mapTags[fileName]['topic']):
-    #                         classification[fileName] = sub2 + ", " + sub1
-
-    # keywords = {'programming', 'algorithm', 'code', 'software', 'robot', 'robots'}
-    #
-    # if fileName not in classification:
-    #     for word in keywords:
-    #         if 'topic' in mapTags[fileName]:
-    #             if word in mapTags[fileName]['topic'].lower():
-    #                 classification[fileName] = "Computer Science, Science"
-    #             elif word in mapContent[fileName].lower():
-    #                 classification[fileName] = "Computer Science, Science"
-    #         elif word in mapContent[fileName].lower():
-    #             classification[fileName] = "Computer Science, Science"
-
+    headerTopic = temp.group(1).strip()
+    mapTags[fileName]['topic'] = headerTopic
+    topics.append(headerTopic)
     return
 
 
+def getType(fileName):
+
+    headerHint = "Type:(.*)"
+    temp = re.search(headerHint, mapHeaders[fileName])
+
+    if temp is None:
+        return
+
+    headerType = temp.group(1).strip()
+    mapTags[fileName]['type'] = headerType
+    types.append(headerType)
+    return
+
+
+def ontology(fileName):
+
+    if fileName not in classification:
+        if 'topic' in mapTags[fileName]:
+            topic = mapTags[fileName]['topic'].rstrip()
+            titles = wikification(topic)
+            for subjectType in tree:
+                for domain in tree[subjectType]:
+                    for field in tree[subjectType][domain]:
+                        if topic is not None:
+                            try:
+                                if titles is not None:
+                                    for title in titles:
+                                        if field in title.lower():
+                                            classification[fileName] = field + ", " + domain + ", " + subjectType
+                                            return
+                                        elif domain in title:
+                                            classification[fileName] = domain + ", " + subjectType
+                                            return
+                            except Exception as e:
+                                print("Timed out")
+
+
+                        for keyword in tree[subjectType][domain][field]:
+                            if topic is not None:
+                                try:
+                                    if titles is not None:
+                                        for title in titles:
+                                            if keyword in title.lower():
+                                                classification[fileName] = field + ", " + domain + ", " + subjectType
+                                                return
+                                except Exception as e:
+                                    print("Timed out")
+
+    if fileName not in classification:
+        if 'topic' in mapTags[fileName]:
+            topic = mapTags[fileName]['topic'].rstrip()
+            for subjectType in tree:
+                for domain in tree[subjectType]:
+                    for field in tree[subjectType][domain]:
+                        if topic is not None:
+                            if field in topic.lower():
+                                classification[fileName] = field + ", " + domain + ", " + subjectType
+                                return
+                            elif domain in topic:
+                                classification[fileName] = domain + ", " + subjectType
+                                return
+                        for keyword in tree[subjectType][domain][field]:
+                            if topic is not None:
+                                if keyword in topic.lower():
+                                    classification[fileName] = field + ", " + domain + ", " + subjectType
+                                    return
+
+    if fileName not in classification:
+        content = mapContent[fileName].rstrip()
+        for subjectType in tree:
+            for domain in tree[subjectType]:
+                for field in tree[subjectType][domain]:
+                    if content is not None:
+                        if field in content.lower():
+                            classification[fileName] = field + ", " + domain + ", " + subjectType
+                            return
+                        elif domain in content:
+                            classification[fileName] = domain + ", " + subjectType
+                            return
+                    for keyword in tree[subjectType][domain][field]:
+                        if content is not None:
+                            if keyword in content.lower():
+                                classification[fileName] = field + ", " + domain + ", " + subjectType
+                                return
+
+    return
+
+def printOntology():
+    out = open('ontology-classification.txt', 'w')
+    for subjectType in tree:
+        print(subjectType.upper() + "\n", end="", file=out)
+        for domain in tree[subjectType]:
+            print(domain + "\n", end="", file=out)
+            for field in tree[subjectType][domain]:
+                print(field.title() + "\n", end="", file=out)
+                print("-" * len(field), "\n", end="", file=out)
+                for obj in classification:
+                    if field in classification[obj]:
+                        if 'topic' in mapTags[obj]:
+                            print(obj, ':', mapTags[obj]['topic'], "\n", end="", file=out)
+                print("\n", end="", file=out)
+            print('\n', end="", file=out)
+
+
 if __name__ == '__main__':
-    # Read the file contents from the 'untagged' folder
+
+    # read the file contents from the folder
     print('Tagging files...')
     emptyOutputFolder("output/")
     readContents()
 
-    # Set the file name
-    file = "302.txt"
-
-    # Initialise key for hash map tags
     for fileName in mapFiles:
         mapTags[fileName] = {}
 
@@ -416,11 +418,9 @@ if __name__ == '__main__':
 
     printTaggedFiles()
     print('Finished tagging files')
-
+    print('Classifying emails...')
     for fileName in mapFiles:
         ontology(fileName)
-        if fileName in classification:
-            print(fileName, mapTags[fileName]['topic'], '-->', classification[fileName].upper())
-    # print(topics[24])
-    # wikification(topics[24])
-
+        printOntology()
+    print('Finished classifying emails')
+    print('Check ontology-classification.txt to see the classified emails')

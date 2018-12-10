@@ -78,21 +78,21 @@ if __name__ == "__main__":
 
         accuracy = 0
 
-        if (tagErrors[tag]['TP'] + totalTN + totalFP + totalFN) == 0:
+        if (tagErrors[tag]['TP'] + tagErrors[tag]['TN'] + tagErrors[tag]['FP'] + tagErrors[tag]['FN']) == 0:
             accuracy = 100
         else:
-            accuracy = (tagErrors[tag]['TP'] + totalTN) / (tagErrors[tag]['TP'] + tagErrors[tag]['TN'] + tagErrors[tag]['FP'] + tagErrors[tag]['FN']) * 100
+            accuracy = (tagErrors[tag]['TP'] + tagErrors[tag]['TN']) / (tagErrors[tag]['TP'] + tagErrors[tag]['TN'] + tagErrors[tag]['FP'] + tagErrors[tag]['FN']) * 100
 
         precision = 0
 
-        if (tagErrors[tag]['TP'] + totalFP) == 0:
+        if (tagErrors[tag]['TP'] + tagErrors[tag]['FP']) == 0:
             precision = 100
         else:
             precision = tagErrors[tag]['TP'] / (tagErrors[tag]['TP'] + tagErrors[tag]['FP']) * 100
 
         recall = 0
 
-        if (tagErrors[tag]['TP'] + totalFN) == 0:
+        if (tagErrors[tag]['TP'] + tagErrors[tag]['FN']) == 0:
             recall = 100
         else:
             recall = tagErrors[tag]['TP'] / (tagErrors[tag]['TP'] + tagErrors[tag]['FN']) * 100
