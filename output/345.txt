@@ -16,8 +16,8 @@ RI SEMINAR
 
  WHEN:	Friday, March 6, 1992, <stime>3:30 PM</stime>
 
-<paragraph> <sentence>WHERE:	<location>Baker Hall, Adamson Wing</location>
-	Refreshments to be served by 3:15 P</sentence>M</paragraph>
+ WHERE:	<location>Baker Hall, Adamson Wing</location>
+	Refreshments to be served by 3:15 PM
 
  SPEAKER:	<speaker>Richard W. Longman</speaker>, 
  	Professor of Mechanical Engineering, Columbia University

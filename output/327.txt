@@ -47,6 +47,5 @@ International Journal of General Systems and the ORSA Journal on Computing</sent
 <sentence>Dubois is   a  member of  the  Council of the  International  Fuzzy Systems
 Association</sentence>.</paragraph>
 
-<paragraph><sentence>---------------------------------------------------------------------------
- Hosts: Mark Fox/Jeanluc Koning       Appointments: Jeanluc.Koning@ri, x759</sentence>8
-</paragraph>
+---------------------------------------------------------------------------
+ Hosts: Mark Fox/Jeanluc Koning       Appointments: Jeanluc.Koning@ri, x7598

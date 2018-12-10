@@ -12,8 +12,8 @@ Abstract:
 
   RI SEMINAR
 
-<paragraph> <sentence>WHEN:	Friday, 23 October 1992; <stime>3:30</stime> - <etime>5:00 pm</etime>
-	Refreshments to be served by 3:15 p</sentence>m</paragraph>
+ WHEN:	Friday, 23 October 1992; <stime>3:30</stime> - <etime>5:00 pm</etime>
+	Refreshments to be served by 3:15 pm
 
  WHERE:	<location>Baker Hall Adamson Wing</location>
 
@@ -33,21 +33,21 @@ systems and helmet-mounted displays, and to find ways to improve operator percep
 
  HOST:	Hagen Schempf, x6884
 
-<paragraph>---
+---
 ****************|**************************|**************************
 *               |                          |                         *
-*Tim Meadows    |  Field Robotics Center   | Carnegie Mellon Univ.   <sentence>*
+*Tim Meadows    |  Field Robotics Center   | Carnegie Mellon Univ.   *
 *               |                          |                         *
 *412-268-7085   |  Fax: 412-682-1793       | tmeadows@frc.ri.cmu.edu *
 *               |                          |                         *
-*********************************************************************</sentence>*</paragraph>
+**********************************************************************
 
-<paragraph>---
+---
 ****************|**************************|**************************
 *               |                          |                         *
-*Tim Meadows    |  Field Robotics Center   | Carnegie Mellon Univ.   <sentence>*
+*Tim Meadows    |  Field Robotics Center   | Carnegie Mellon Univ.   *
 *               |                          |                         *
 *412-268-7085   |  Fax: 412-682-1793       | tmeadows@frc.ri.cmu.edu *
 *               |                          |                         *
-*********************************************************************</sentence>*</paragraph>
+**********************************************************************
 

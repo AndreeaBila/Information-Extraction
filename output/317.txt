@@ -4,13 +4,13 @@ Topic:    TODAY *ROOM CHANGE*  Anita Flynn's Talk (Faculty Candidate): Smith 125
 Dates:    7-Apr-95
 Time:     <stime>3:30</stime> - <etime>5:00</etime>
 PostedBy: me on 7-Apr-95 at 15:54 from H.GP.CS.CMU.EDU (Michael Erdmann)
-Abstract:<paragraph> 
-<sentence>Friends, 
+Abstract: 
+Friends, 
 the illusions of Carnival have forced us to move the RI Faculty Candidate
-seminar to Smith Hall 125</sentence>.  <sentence>See you there</sentence>.  <sentence>A million thanks to Cleah and a
-number of other folks for helping out with the sudden switch</sentence>.  Best, Mike
+seminar to Smith Hall 125.  See you there.  A million thanks to Cleah and a
+number of other folks for helping out with the sudden switch.  Best, Mike
 ------------------------------------------------------------------------------
-       Robotics Seminar     FACULTY CANDIDATE    Robotics Seminar</paragraph>
+       Robotics Seminar     FACULTY CANDIDATE    Robotics Seminar
 
 Friday April 7, <stime>3:30</stime>-<etime>5:00</etime>
 Refreshments 3:15
@@ -45,16 +45,15 @@ friction have been derived and simulations will be presented which
 predict speed-torque curves, efficiencies and overall output power for
 various conditions of operating voltage and normal force</sentence>.</paragraph>
 
-<paragraph>   <sentence>Work in progress on a new laser-etching technique for piezoelectric
+   Work in progress on a new laser-etching technique for piezoelectric
 ultrasonic micromotors offers promise for simplifying the fabrication
-steps and developing more practical motors</sentence>. <sentence>We plan to incorporate
+steps and developing more practical motors. We plan to incorporate
 these actuators into small robots and create truly integrated
-intelligent machines</sentence>.  <sentence>Presently, we are developing small palm-sized
+intelligent machines.  Presently, we are developing small palm-sized
 autonomous robots, using conventional electromagnetic motors, with
 onboard computers and 18 sensors which can crawl through tubes, pick
-up small objects and cooperate on tasks</sentence>.  <sentence>Later, ultrasonic motors
-will be retrofit as they become available, enabling miniaturization</sentence>.
-<sentence>I will show videotapes of these machines in a robotic ant colony and
-as intestine crawlers for telepresence surgery</sentence>.
+up small objects and cooperate on tasks.  Later, ultrasonic motors
+will be retrofit as they become available, enabling miniaturization.
+I will show videotapes of these machines in a robotic ant colony and
+as intestine crawlers for telepresence surgery.
 ------------------------------------------------------------------------------
-</paragraph>

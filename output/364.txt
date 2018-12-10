@@ -10,16 +10,16 @@ Host:     Sing Bing Kang (sbk@cs)
 PostedBy: sbk+ on 20-May-93 at 15:51 from cs.cmu.edu (Sing Bing Kang)
 Abstract: 
 
-<paragraph> Date:		25-May-93, Tuesday
+ Date:		25-May-93, Tuesday
  Time:		3:00pm
  Place:		<location>WeH4623</location>
  Duration:	75 mins.
  Who:		<speaker>Peter Eggleston</speaker>, Amerinex Artificial Intelligence, Inc.
- <sentence>Topics:		Object Segmentation Techniques for use in Visual Automation
+ Topics:		Object Segmentation Techniques for use in Visual Automation
  		and
  		Constraint Based Feature Indexing and Retrieval for Image
  		Databases
- Host:		Sing Bing Kang (sbk@cs</sentence>)</paragraph>
+ Host:		Sing Bing Kang (sbk@cs)
 
 Topic 1: Object Segmentation Techniques for use in Visual Automation
 

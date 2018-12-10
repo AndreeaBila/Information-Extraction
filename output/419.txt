@@ -12,7 +12,7 @@ Host:     Dana Scott (Asst: Rebecca Clark x8-6737)
 PostedBy: rebec+ on 10-Nov-93 at 10:15 from GNOME.CS.CMU.EDU (Rebecca Clark)
 Abstract: 
 
-<paragraph> <sentence>What:   Special Seminar
+ What:   Special Seminar
  Who:    <speaker>Prof. Klaus Sutner</speaker>
          Computer Science Department
          Stevens Institute of Technology
@@ -22,7 +22,7 @@ Abstract:
  Date:   12-Nov-93
  Time:   <stime>12:00 pm</stime>
  Place:  <location>WeH 4623</location>
- Host:   Dana Scott (Asst: Rebecca Clark x8-6737</sentence>)</paragraph>
+ Host:   Dana Scott (Asst: Rebecca Clark x8-6737)
 
 <paragraph> <sentence>ABSTRACT: We will demonstrate the sytem "automata" that implements
  finite state machines</sentence>.  <sentence>The system consists of a Mathematica package

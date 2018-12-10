@@ -52,9 +52,8 @@ and creates the control program to spin the top based on the observation</senten
 <paragraph><sentence>In the talk, video demonstrations of several of our robot systems will be
 presented</sentence>.</paragraph>
 
-<paragraph><sentence>----------
-Refreshments will be served from 3:15-3:30</sentence>.  
-Discussion and questions:  4:30-5:00.
-<sentence>Everyone in the CMU community is invited to attend</sentence>.
 ----------
-</paragraph>
+Refreshments will be served from 3:15-3:30.  
+Discussion and questions:  4:30-5:00.
+Everyone in the CMU community is invited to attend.
+----------

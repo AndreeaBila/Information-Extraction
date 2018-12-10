@@ -17,16 +17,16 @@ Abstract:
 		       1210 West Dayton Street
 			  Madison, WI 53706
 
-<paragraph><sentence>Future parallel computers must execute efficiently both hand-coded
+Future parallel computers must execute efficiently both hand-coded
 applications and also programs written in high-level programming
-languages</sentence>.  <sentence>Today's machines limit programs to a single communication
+languages.  Today's machines limit programs to a single communication
 paradigm---message-passing or shared-memory---which results in uneven
-performance</sentence>.  <sentence>To address this problem, we have developed the Tempest
+performance.  To address this problem, we have developed the Tempest
 interface, which supports shared-memory, message-passing, and hybrid
-applications</sentence>.  <sentence>Tempest enhances portability of parallel programs by
+applications.  Tempest enhances portability of parallel programs by
 allowing low-cost networks of workstations to provide the same
 abstractions (e.g., shared memory) as high-performance parallel
-machines</sentence>.</paragraph>
+machines.
 
 <paragraph><sentence>The Tempest interface consists of low-level communication and
 memory-system mechanisms</sentence>.  <sentence>Policies, such as shared memory, are

@@ -6,8 +6,8 @@ Time:     <stime>3:00 PM</stime>
 PostedBy: cae+ on 14-Jun-95 at 14:10 from CAE.ADM.CS.CMU.EDU (Colleen A Everett)
 Abstract: 
 
-<paragraph><sentence>Hosted by Matt Mason
---------------------------------------------------------------------------</sentence>-</paragraph>
+Hosted by Matt Mason
+---------------------------------------------------------------------------
 
 <paragraph>     Complementarity Formulations of Multi-rigid-body Contact Problems
                          Friday, June 16 at 3:00pm

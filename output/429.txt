@@ -9,13 +9,13 @@ Host:     Michael Erdmann
 PostedBy: plp+ on 28-Jan-94 at 10:19 from PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz)
 Abstract: 
 
-<paragraph> <sentence>Type:     AI Seminar
+ Type:     AI Seminar
  Who:      <speaker>Dan Weld</speaker>, University of Washington
  Topic:    Planning: Recent Results
  Dates:    8-Feb-94
  Time:     3:30 p.m.
  Place:    <location>5409 Wean Hall</location>
- Host:     Michael Erdman</sentence>n</paragraph>
+ Host:     Michael Erdmann
 
                         (not available as yet)
 

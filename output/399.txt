@@ -12,7 +12,7 @@ place  inside the message</sentence>. Sorry about the confusion.</paragraph>
 
 jas
 
-<paragraph><sentence>In article  jass+@cs.cmu.edu (Jaspal Subhlok) writes:
+In article  jass+@cs.cmu.edu (Jaspal Subhlok) writes:
 >
 >Date:    Feb 12,93
 >Time:    9.00 A.M.
@@ -21,11 +21,11 @@ jas
 >
 >Rajiv Gupta from University of Pittsburgh will deliver a guest
 >lecture  in the course on "Modern Language Implementation" on
->Feb 19 at 9.00</sentence>. <sentence>His lecture will focus on Program Dependence
->Graph and Static Single Assignment program representations</sentence>. <sentence>You
+>Feb 19 at 9.00. His lecture will focus on Program Dependence
+>Graph and Static Single Assignment program representations. You
 >may wish to attend this lecture, even if you do not attend
->the class otherwise</sentence>. <sentence>Please contact me (jass@cs) if you wish to
->speak to Rajiv while he is here</sentence>.
+>the class otherwise. Please contact me (jass@cs) if you wish to
+>speak to Rajiv while he is here.
 >
-></paragraph>
+>
 

@@ -10,10 +10,10 @@ Host:     Peter Lee.  If you would like an appointment with the speaker,
 PostedBy: petel+ on 14-Apr-92 at 15:06 from STICKY.MESS.CS.CMU.EDU (Peter Lee)
 Abstract: 
 
-<paragraph> <sentence>Who: <speaker>Eliot Moss</speaker>, UMass
+ Who: <speaker>Eliot Moss</speaker>, UMass
  When: Thursday, 4/16, 2pm
  Where: <location>WeH 4623</location>
- What</sentence>:</paragraph>
+ What:
 
               A Language Independent Garbage Collector Toolkit
 
@@ -54,6 +54,5 @@ permits</sentence>.</paragraph>
 <paragraph><sentence>Collaborators in this work include: Amer Diwan, Tony Hosking, Rick Hudson, and
 Darko Stefanovic</sentence>.</paragraph>
 
-<paragraph> Host: Peter Lee.  <sentence>If you would like an appointment with the speaker,
- please contact michelle@cs</sentence>.
-</paragraph>
+ Host: Peter Lee.  If you would like an appointment with the speaker,
+ please contact michelle@cs.

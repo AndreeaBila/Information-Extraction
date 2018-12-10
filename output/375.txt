@@ -13,8 +13,8 @@ Abstract:
 
 RI SEMINAR
 
-<paragraph> <sentence>WHEN:	Friday, Sept. 18, 1992; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
-	Refreshments will be served by 3:15 p</sentence>m</paragraph>
+ WHEN:	Friday, Sept. 18, 1992; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+	Refreshments will be served by 3:15 pm
 
  WHERE:	<location>Baker Hall - Adamson Wing</location>
 

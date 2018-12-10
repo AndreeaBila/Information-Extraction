@@ -14,14 +14,14 @@ Abstract:
 
                        RI SEMINAR
 
-<paragraph> <sentence>WHEN:   Friday, Nov 18, 1994; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
-        Refreshments will be served starting at 3:15 p</sentence>m</paragraph>
+ WHEN:   Friday, Nov 18, 1994; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+        Refreshments will be served starting at 3:15 pm
 
  WHERE:  <location>ADAMSON WING Auditorium in Baker Hall</location>
 
-<paragraph> <sentence>SPEAKER: <speaker>John Bares</speaker>
+ SPEAKER: <speaker>John Bares</speaker>
           The Robotics Institute
-          Carnegie Mellon Universit</sentence>y</paragraph>
+          Carnegie Mellon University
 
  TITLE:  Dante II and Beyond: Exploration Robots
 

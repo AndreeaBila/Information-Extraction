@@ -17,8 +17,8 @@ on a first-come/first-serve basis</sentence>.</paragraph>
 ----------------------------------------------------------
                        RI SEMINAR
 
-<paragraph> <sentence>WHEN:     Friday, May 5, 1995; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
-          Refreshments will be served starting at 3:15 pm</sentence>.</paragraph>
+ WHEN:     Friday, May 5, 1995; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+          Refreshments will be served starting at 3:15 pm.
 
  WHERE:    <location>ADAMSON WING Auditorium in Baker Hall</location>
 

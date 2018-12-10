@@ -17,11 +17,11 @@ SPECIAL CIT SEMINAR:	Friday, June 5
 
 <paragraph><sentence>Among the developments that he will be discussing are</sentence>:</paragraph>
 
-<paragraph>	<sentence>*Seminconductor laser diodes
+	*Seminconductor laser diodes
 	*Magnetic recording materials for high density storage
 	*Lithium ion rechargesable batteries
 	*A novel laser annealing process for functional polysilicon
-	 device</sentence>s</paragraph>
+	 devices
 
 <paragraph><sentence>Dr. Watanabe is a Member of Sony Corporation's Board of Directors and
 is the Director of the Sony Research Center in Tokyo</sentence>.  <sentence>He has been with

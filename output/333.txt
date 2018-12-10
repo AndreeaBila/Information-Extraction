@@ -42,12 +42,12 @@ Abstract:
    achieve complicated manipulation and sensing performance by using
    *just enough* simple elements, namely</sentence>:</paragraph>
 
-<paragraph>	 <sentence>* Dextrous manipulation is replaced by two or three
-	   transfer/grasping steps with simple, specialized grippers</sentence>.</paragraph>
+	 * Dextrous manipulation is replaced by two or three
+	   transfer/grasping steps with simple, specialized grippers.
 
-<paragraph>	 <sentence>* Dense sensor input like vision or tactile or rangefinder 
+	 * Dense sensor input like vision or tactile or rangefinder 
 	   data is replaced by very low resolution sensors, like finger gap,
-	   optical beam or low-resolution tactile</sentence>.</paragraph>
+	   optical beam or low-resolution tactile.
 
 <paragraph>   <sentence>This lets us build fast, cheap, simple, robust systems now rather than
    later</sentence>.  <sentence>The sensors are small and inexpensive enough that they can be

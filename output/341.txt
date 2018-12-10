@@ -13,9 +13,9 @@ Abstract:
 	     Friendly reminder:  Robotics Seminar Today</sentence>!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^</paragraph>
 
-<paragraph><sentence>Jeff Kerr will be in the Manipulation Lab in the late morning,
-chatting about research</sentence>.   <sentence>If you don't have a scheduled appointment
-and would like to chat with Jeff feel free to drop by</sentence>.  --- Mike</paragraph>
+Jeff Kerr will be in the Manipulation Lab in the late morning,
+chatting about research.   If you don't have a scheduled appointment
+and would like to chat with Jeff feel free to drop by.  --- Mike
 
 ------------------------------------------------------------------------------
 

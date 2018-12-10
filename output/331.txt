@@ -36,12 +36,12 @@ may  lead  to  an  exponential  match effort</sentence>. <sentence>We have inves
 approaches to eliminate match combinatorics, and have focused on the  following
 two that appear quite promising</sentence>:</paragraph>
 
-<paragraph>   <sentence>- The  unique-attribute  approach:  This approach restricts the working
-     memory representation and completely eliminates the ambiguity</sentence>.</paragraph>
+   - The  unique-attribute  approach:  This approach restricts the working
+     memory representation and completely eliminates the ambiguity.
 
-<paragraph>   <sentence>- The tokenless-match approach: This approach changes the match process
+   - The tokenless-match approach: This approach changes the match process
      so  as to allow some local ambiguity, but avoids the cascading effect
-     that leads to combinatorics</sentence>.</paragraph>
+     that leads to combinatorics.
 
 <paragraph>  <sentence>I  will  present  detailed  theoretical  and  experimental  analyses  of  the
 performance    improvements    possible   with   these   approaches   and   the

@@ -10,14 +10,14 @@ Host:     Stephen D. Brookes
 PostedBy: marian+ on 28-Jan-93 at 13:09 from MARIAN.ADM.CS.CMU.EDU (Marian D'Amico)
 Abstract: 
 
-<paragraph> Type:     LOGIC COLLOQUIUM
- Who:      <speaker>Gian Aldo Antonelli</speaker>, Univ. <sentence>of Pittsburgh
+ Type:     LOGIC COLLOQUIUM
+ Who:      <speaker>Gian Aldo Antonelli</speaker>, Univ. of Pittsburgh
  Topic:    A Revision-Theoretic Analysis of the Arithmetical Hierarchy
  Dates:    4-Feb-93
  Time:     <stime>3:30 PM</stime>
  Place:    <location>WEH 5409</location>
  Host:     Stephen D. Brookes
- 	  Please contact Marian D'Amico (marian@cs) for appointments</sentence>.</paragraph>
+ 	  Please contact Marian D'Amico (marian@cs) for appointments.
 
 <paragraph><sentence>In this paper I apply the idea of Revision Rules, originally
 developed within the framework of the theory of truth and later

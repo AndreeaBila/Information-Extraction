@@ -50,12 +50,14 @@ def wikification(query):
   url_data = json.loads( url_data )
 
   # Pretty print
-  pprint( url_data )
+  # pprint( url_data )
 
   # Now we extract just the titles
   titles = [ i['title'] for i in url_data['query']['search'] ]
-  pprint( titles )
+  # pprint( titles )
 
   # Make sure we can plug these into urls:
   url_titles = [ urllib.parse.quote_plus(i) for i in titles ]
-  pprint( url_titles )
+  # pprint( url_titles )
+
+  return titles + url_titles

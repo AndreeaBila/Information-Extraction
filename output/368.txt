@@ -25,8 +25,8 @@ procedures, and answer any questions you may have</sentence>.</paragraph>
 
 Oliver
 
-<paragraph><sentence>-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 Oliver Schulte  os22@andrew.cmu.edu          GSO Liasion Officer
 Logic and Computation Program		     "A is better off if B is better 
-Carnegie Mellon University, Pittsburgh, PA   off" - v. Foerste</sentence>r</paragraph>
+Carnegie Mellon University, Pittsburgh, PA   off" - v. Foerster
 

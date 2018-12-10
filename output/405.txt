@@ -10,14 +10,14 @@ Host:     Ed Clarke
 PostedBy: dbj+ on 3-Mar-93 at 18:12 from cs.cmu.edu (Dave Johnson)
 Abstract: 
 
-<paragraph> <sentence>Type:     PS Seminar
+ Type:     PS Seminar
  Who:      <speaker>Amy Zwarico</speaker>, Johns Hopkins University
  Topic:    "Testing Preorders for Reactive Real-Time Processes"
  Dates:    8-Mar-93
  Time:     <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
  Place:    <location>Wean Hall 5409</location>
  Duration: 90 Minutes
- Host:     Ed Clark</sentence>e</paragraph>
+ Host:     Ed Clarke
 
 <paragraph>  <sentence>Recent years have witnessed increasing interest in the theoretical
   aspects of real-time programming</sentence>.  <sentence>This has been fueled by the high

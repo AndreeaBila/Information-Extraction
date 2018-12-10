@@ -41,6 +41,5 @@ applications environment consisting of a conventional UNIX based OS
 with a discussion of experiences porting customer specific and third party
 applications</sentence>.</paragraph>
 
-<paragraph><sentence>----
-If you are interested in talking to Steve Frank, please send mail to bag@cs</sentence>.
-</paragraph>
+----
+If you are interested in talking to Steve Frank, please send mail to bag@cs.

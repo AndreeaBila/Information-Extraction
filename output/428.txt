@@ -25,16 +25,16 @@ Abstract:
      these results are focused on determining the relative impor-
      tance of several MIN characteristics</sentence>.</paragraph>
 
-<paragraph><sentence>-----
+-----
 Jim Smith was formerly with the University of Wisconsin where he developed
-the concept of the "Decoupled Access/Execute Architectures"</sentence>.  <sentence>He then went
-on to build such a machine, the ZS-1, for the Astronautics Corp. of America</sentence>.
-<sentence>After Seymour Cray left to form Cray Computer, he joined Cray Research as
-computer architect</sentence>.  <sentence>The abstract may sound a little dry, but I think the
+the concept of the "Decoupled Access/Execute Architectures".  He then went
+on to build such a machine, the ZS-1, for the Astronautics Corp. of America.
+After Seymour Cray left to form Cray Computer, he joined Cray Research as
+computer architect.  The abstract may sound a little dry, but I think the
 talk will not disappoint you, especially if you wonder what is happening in
 this part of the supercomputer world [I don't want to say more; Cray
 Research after all is the company that developed the Cray X-MP and the 
-Cray Y-MP.</sentence>]  --TRG</paragraph>
+Cray Y-MP.]  --TRG
 
 9
 

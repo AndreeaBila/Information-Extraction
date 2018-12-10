@@ -9,13 +9,13 @@ Host:     Raul Valdes-Perez
 PostedBy: plp+ on 4-Nov-93 at 11:29 from PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz)
 Abstract: 
 
-<paragraph> <sentence>Type:     AI Seminar
+ Type:     AI Seminar
  Who:      <speaker>Clark Glymour</speaker> (CMU Philosophy)
  Topic:    Automated Casual Inference: Recent Work and Open Problems
  Dates:    9-Nov-93
  Time:     3:30 p.m.
  Place:    <location>5409 Wean Hall</location>
- Host:     Raul Valdes-Pere</sentence>z</paragraph>
+ Host:     Raul Valdes-Perez
 
 Causation, Feedback, Conditional Independence in Neural Nets, 
 		and the Structure of the Unobserved

@@ -15,7 +15,7 @@ Abstract:
 	4:00 p.m., <location>3rd Floor Conference Room</location>
 		   Mellon Institute Bldg
 
-<paragraph><sentence>-------
-No abstract is available at this time</sentence>.  <sentence>A list of future seminars will be
-posted in the near future</sentence>.  </paragraph>
+-------
+No abstract is available at this time.  A list of future seminars will be
+posted in the near future.  
 

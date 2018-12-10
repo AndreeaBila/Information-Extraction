@@ -11,8 +11,8 @@ Abstract:
 
 RI SEMINAR
 
-<paragraph> <sentence>WHEN:		Friday, November 13, 1992, <stime>3:30 PM</stime>
-		Refreshments to be served by 3:15 P</sentence>M</paragraph>
+ WHEN:		Friday, November 13, 1992, <stime>3:30 PM</stime>
+		Refreshments to be served by 3:15 PM
 
  WHERE:		<location>Baker Hall Adamson Wing</location>
 
@@ -32,12 +32,12 @@ vision-based intelligent robots</sentence>.</paragraph>
 
  Host: Hagen Schempf, x6884
 
-<paragraph>---
+---
 ****************|**************************|**************************
 *               |                          |                         *
-*Tim Meadows    |  Field Robotics Center   | Carnegie Mellon Univ.   <sentence>*
+*Tim Meadows    |  Field Robotics Center   | Carnegie Mellon Univ.   *
 *               |                          |                         *
 *412-268-7085   |  Fax: 412-682-1793       | tmeadows@frc.ri.cmu.edu *
 *               |                          |                         *
-*********************************************************************</sentence>*</paragraph>
+**********************************************************************
 

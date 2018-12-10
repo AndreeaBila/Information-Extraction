@@ -21,6 +21,5 @@ effort to pose and solve classes of such problems within a framework of
 "autonomous machine design" that emphasizes the dynamical nature of
 robot tasks and environments</sentence>.</paragraph>
 
-<paragraph><sentence>-----------------------------------------------------------------------
-If you'd like to meet with Dan, please send me mail at ssingh@cs</sentence>.
-</paragraph>
+-----------------------------------------------------------------------
+If you'd like to meet with Dan, please send me mail at ssingh@cs.

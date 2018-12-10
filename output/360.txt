@@ -13,8 +13,8 @@ Abstract:
 
                        RI SEMINAR
 
-<paragraph> <sentence>WHEN:   Friday, Feb. 19, 1993; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
-        Refreshments will be served by 3:15 p</sentence>m</paragraph>
+ WHEN:   Friday, Feb. 19, 1993; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+        Refreshments will be served by 3:15 pm
 
  WHERE:  <location>ADAMSON WING Auditorium in Baker Hall</location>
 
@@ -57,6 +57,6 @@ has to be distributed to a set of trucks</sentence>. <sentence>The talk will exp
 the design of the multi-agent solutions for these two applications
 and how the scheduling problem was solved in each case</sentence>.</paragraph>
 
-<paragraph> <sentence>Host: For appointments with the speaker, please contact
-       Siegfried Bocionek (bocionek+@a.gp.cs.cmu.edu, x5299</sentence>)</paragraph>
+ Host: For appointments with the speaker, please contact
+       Siegfried Bocionek (bocionek+@a.gp.cs.cmu.edu, x5299)
 

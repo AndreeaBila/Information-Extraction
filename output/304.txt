@@ -14,8 +14,8 @@ Abstract:
 
                        RI SEMINAR
 
-<paragraph> <sentence>WHEN:   Friday, Nov. 11, 1994; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
-        Refreshments will be served starting at 3:15 p</sentence>m</paragraph>
+ WHEN:   Friday, Nov. 11, 1994; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+        Refreshments will be served starting at 3:15 pm
 
  WHERE:  <location>ADAMSON WING Auditorium in Baker Hall</location>
 
@@ -23,7 +23,7 @@ Abstract:
          Computer Science Department, Cornell University
          and Xerox Palo Alto Research Center
 
-<paragraph> <sentence>TITLE:  Using Two-Dimensional Image Matching to Interpret the Three-Dimensional Worl</sentence>d</paragraph>
+ TITLE:  Using Two-Dimensional Image Matching to Interpret the Three-Dimensional World
 
 <paragraph><sentence>We are investigating the extent to which two-dimensional representations
 are applicable to tasks that involve interacting with the three-dimensional

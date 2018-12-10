@@ -9,13 +9,13 @@ Host:     Dave McKeown
 PostedBy: plp+ on 20-Oct-93 at 15:35 from PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz)
 Abstract: 
 
-<paragraph> <sentence>Type:     AI Seminar
+ Type:     AI Seminar
  Who:      <speaker>Rich Korf</speaker> (UCLA)
  Topic:    Best-First Minimax Search
  Dates:    21-Oct-93
  Time:     3:30 p.m.(Note unusual day and room: Thursday - 4623 WeH)
  Place:    <location>4623 Wean Hall</location>
- Host:     Dave McKeow</sentence>n</paragraph>
+ Host:     Dave McKeown
 
 Best-First Minimax: A Selective Search Algorithm for Two-Player Games
 by

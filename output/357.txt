@@ -11,8 +11,8 @@ Abstract:
 
 RI SEMINAR
 
-<paragraph> <sentence>WHEN:		Friday, November 13, 1992, <stime>3:30 PM</stime>
-		Refreshments to be served by 3:15 P</sentence>M</paragraph>
+ WHEN:		Friday, November 13, 1992, <stime>3:30 PM</stime>
+		Refreshments to be served by 3:15 PM
 
  WHERE:		<location>Baker Hall Adamson Wing</location>
 

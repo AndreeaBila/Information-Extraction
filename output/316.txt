@@ -10,14 +10,14 @@ Host:     <speaker>Herbert Simon</speaker>
 PostedBy: plp+ on 31-Mar-95 at 11:59 from HOSTESS.GRAPHICS.CS.CMU.EDU (Phyllis Pomerantz)
 Abstract: 
 
-<paragraph> <sentence>Type:     Joint AI/HCI Seminar
+ Type:     Joint AI/HCI Seminar
  Who:      <speaker>Harold Cohen</speaker> / UC at San Diego
  Topic:    AARON: In Living Color
  Dates:    18-Apr-95
  Time:     3:30 p.m.
  Place:    <location>5409 Wean Hall</location>
  Duration: 1 1/2 hours
- Host:     Herbert Simo</sentence>n</paragraph>
+ Host:     <speaker>Herbert Simon</speaker>
 
  AARON: In Living Color.
 

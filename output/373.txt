@@ -12,16 +12,16 @@ Abstract:
 
 RI SEMINAR
 
-<paragraph> <sentence>WHEN:	Friday, Sept. 11, 1992; <stime>3:30</stime> - <etime>5:00 PM</etime>
-	Refreshments will be served by 3:15 P</sentence>M</paragraph>
+ WHEN:	Friday, Sept. 11, 1992; <stime>3:30</stime> - <etime>5:00 PM</etime>
+	Refreshments will be served by 3:15 PM
 
  WHERE:	<location>BAKER HALL ADAMSON WING</location>
 
  SPEAKER: 	<speaker>DR. Navin Chandra</speaker> - Research Scientist - 
  	Robotics Institute - CMU
 
-<paragraph> <sentence>Title: 	Green Engineering: Rethinking Engineering Design And  
- 	Manufacturing From The Environmental Perspective</sentence>.</paragraph>
+ Title: 	Green Engineering: Rethinking Engineering Design And  
+ 	Manufacturing From The Environmental Perspective.
 
 <paragraph><sentence>Green Engineering is an approach to product and process design that
 achieves environmental friendliness without compromising a product's quality or its commercial viability</sentence>.  <sentence>The implications of green engineering are far reaching</sentence>. <sentence>Product design has to now include issues relating to disposal and reuse</sentence>. <sentence>Manufacturing has to include disassembly and remanufacture (de-manufacturing)</sentence>. <sentence>Economic planning has to include revenues from post consumer marketing</sentence>.</paragraph>

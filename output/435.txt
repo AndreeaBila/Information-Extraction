@@ -9,14 +9,14 @@ Host:     Danny Sleator
 PostedBy: plp+ on 18-Feb-94 at 16:54 from PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz)
 Abstract: 
 
-<paragraph>
- <sentence>Type:     AI Seminar
+
+ Type:     AI Seminar
  Who:      <speaker>Eugene Charniak</speaker>
  Topic:    Improved Statistical Language Models from Syntactic Parsing
  Dates:    22-Feb-94
  Time:     3:30 p.m.
  Place:    <location>5409 Wean Hall</location>
- Host:     Danny Sleato</sentence>r</paragraph>
+ Host:     Danny Sleator
 
 Improved Statistical Language Models from Syntactic Parsing
 <speaker>Eugene Charniak</speaker>

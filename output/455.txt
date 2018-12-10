@@ -10,14 +10,14 @@ Host:     Peter Steenkiste
 PostedBy: prs+ on 30-Nov-94 at 11:41 from N2.SP.CS.CMU.EDU (peter steenkiste)
 Abstract: 
 
-<paragraph>
- <sentence>Type:     CS Seminar
+
+ Type:     CS Seminar
  Who:      <speaker>Rick Stevens</speaker>, Argonne National Laboratory
  Dates:    2-Dec-94
  Time:     <stime>4:00 pm</stime>
  Place:    <location>5409 Wean Hall</location>
  Duration: 1.5 hours
- Host:     Peter Steenkist</sentence>e</paragraph>
+ Host:     Peter Steenkiste
 
 <paragraph> <sentence>LabSpace:  Developing the National Electronic Laboratory Infrastructur</sentence>e</paragraph>
 
