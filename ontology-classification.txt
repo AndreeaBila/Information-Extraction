@@ -35,7 +35,6 @@ Human Computer Interaction
 -------------------------- 
 316.txt : AARON: In Living Color 
 432.txt : HCI Seminar Feb 16 
-436.txt : HCI Seminar March 23 
 437.txt : March 23 HCI Seminar 
 461.txt : HCI seminar, Raj Reddy, 3:30 Friday 5-5, Wean 5409 
 483.txt : Interesting HCI seminar... 
@@ -87,7 +86,6 @@ Computer Vision
 347.txt : Computer vision and geometric measurement 
 353.txt : Techniques for Task-Directed Sensor Data 
 355.txt : Radargrammetric Processing of Magellan Images of the Planet Venus 
-358.txt : FILTERS FOR IMAGE RESAMPLING 
 375.txt : Elemental measurements in vision. 
 376.txt : Elemental measurements in vision. 
 
@@ -116,6 +114,7 @@ Databases
 Parallel Computing
 ------------------ 
 374.txt : Iterative Design of Efficient Parallel Programs 
+382.txt : THE FUTURE OF COMPUTING-Lecture 
 414.txt : PSC/CS Seminar 10/8 4:00 pm WeH 5409: Marc Snir of IBM 
 440.txt : Parallel Computing at the Swiss Scientific 
 
@@ -143,12 +142,11 @@ Technology
 397.txt : Change!!: Wed WWC PictureTel Seminar 
 415.txt : CS/PSC Seminar 10/22 @ 4:00 p.m WeH 5409 A. Nowatzyk of Sun 
 426.txt : HCI Seminar 1/26 
+436.txt : HCI Seminar March 23 
 438.txt : Mach Internals Seminar: Physical Memory Management 
-442.txt : Computer Systems Seminar 9/16 
 443.txt : Calendar joint CS-PSC seminar series 
 455.txt : CS Seminar 12/2: Rick Stevens 
 456.txt : APPLE COMPUTER TALK 
-480.txt : Undergrad Research Presentations 
 
 
 Physics

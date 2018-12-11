@@ -82,12 +82,10 @@ def extractTrainingData():
 
 
 def tag(index, text, fileName, tagName):
-    startTag = "<" + tagName + ">"
-    endTag = "</" + tagName + ">"
 
     content = mapFiles[fileName]
-    content = content[:(index + len(text))] + endTag + content[(index + len(text)):]
-    content = content[:index] + startTag + content[index:]
+    content = content[:(index + len(text))] + "</" + tagName + ">" + content[(index + len(text)):]
+    content = content[:index] + "<" + tagName + ">" + content[index:]
     mapFiles[fileName] = content
 
 
@@ -95,7 +93,6 @@ def hasVerb(text):
     words = nltk.word_tokenize(text)
 
     for word, part in nltk.pos_tag(words):
-
         if 'V' in part:
             return True
             break
@@ -215,14 +212,12 @@ def tagTime(fileName):
         mapTags[fileName]['stime'] = "EMPTY"
         mapTags[fileName]['etime'] = "EMPTY"
 
-    # Find times in content
     time_format = re.compile(r"\b((0?[1-9]|1[012])([:.][0-5][0-9])?(\s?[apAP][Mm])|([01]?[0-9]|2[0-3])([:.][0-5][0-9]))\b")
 
     counter = 0
     tagLength = len("<stime></stime>")
 
     contentTimes = time_format.finditer(mapFiles[fileName])
-
 
     for time in contentTimes:
         index = time.start() + counter * tagLength
@@ -258,7 +253,6 @@ def buildTree():
     tree['Science'] = {"Computer Science": {}, "Physics": {}, "Chemistry": {}}
     tree['Humanities'] = {"Literature": {}, "History": {}, "Music": {}}
 
-
     tree['Science']['Computer Science'] = {"artificial intelligence": {'deep learning', 'machine learning',
                                             'neural network', 'neural net', 'minimax', 'alpha-beta pruning', 'ai '},
                                            "human computer interaction": {'hci'}, "security": {},
@@ -267,15 +261,21 @@ def buildTree():
                                             {'graph', 'graphics'}, 'networks': {}, 'databases': {'sql', 'database'},
                                            'parallel computing': {}, 'algorithms': {}, 'programming languages': {},
                                            'automata': {'finite state machines'}, 'technology': {}}
+
     tree['Science']['Physics'] = {"thermodynamics": {}, "quantum mechanics": {}, "optical physics": {}}
+
     tree['Science']['Chemistry'] = {"organic Chemistry": {}, "inorganic chemistry": {}, "biochemistry": {'biomolecule'}}
+
     tree['Science']['Engineering'] = {"mechanical engineering": {}, "electrical engineering": {},
                                       "industrial engineering": {}, "environmental engineering": {}, 'transport': {}}
+
     tree['Science']['Mathematics'] = {"algebra": {}, "geometry": {'geometric'}, "calculus": {}, "combinatorics": {},
                                       'math': {}, 'arithmetic': {}, 'mathematical theory': {}}
+
     tree['Science']['Economy'] = {"taxes": {'tax'}, 'finance': {'financial'}}
 
     tree['Humanities']['Public speaking'] = {"speech": {}}
+
     tree['Humanities']['Teaching'] = {"teaching": {}}
 
     return tree
@@ -408,7 +408,6 @@ if __name__ == '__main__':
     for fileName in mapFiles:
         mapTags[fileName] = {}
 
-        # Tag in order
         tagParagraphs(fileName)
         tagLocation(fileName)
         tagSpeaker(fileName)
